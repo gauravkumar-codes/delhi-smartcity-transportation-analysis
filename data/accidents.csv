@@ -1,0 +1,1183 @@
+Acc_id,Date,Time,Location,Vehicle_at_fault,Victim,Type_of_accident,Killed,Injured,Accident_severity
+DEL-ACC-00101,2024-01-01,morning,Pitampura,E-Rickshaw,Passenger,Overturning,0,0,minor
+DEL-ACC-00102,2024-01-01,afternoon,Rajouri Garden,Two-Wheeler,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00103,2024-01-01,evening,Okhla,Private Car,Cyclist,Skidding,0,0,minor
+DEL-ACC-00104,2024-01-01,evening,Okhla,Bus,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00105,2024-01-01,night,Chandni Chowk,Auto Rickshaw,Driver,Side-swipe,0,0,minor
+DEL-ACC-00106,2024-01-02,morning,Janakpuri,Truck,Pedestrian,Hit and Run,1,2,fatal
+DEL-ACC-00107,2024-01-02,morning,Janakpuri,E-Rickshaw,Driver,Overturning,0,1,moderate
+DEL-ACC-00108,2024-01-02,afternoon,Pitampura,Auto Rickshaw,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-00109,2024-01-02,evening,Patparganj,E-Rickshaw,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00110,2024-01-02,evening,Patparganj,E-Rickshaw,Driver,Overturning,0,2,serious
+DEL-ACC-00111,2024-01-02,night,Chandni Chowk,Taxi,Two-Wheeler Rider,Rear-end Collision,1,1,fatal
+DEL-ACC-00112,2024-01-03,morning,Chandni Chowk,Auto Rickshaw,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00113,2024-01-03,afternoon,Dwarka,Auto Rickshaw,Driver,Hit and Run,0,1,moderate
+DEL-ACC-00114,2024-01-03,evening,Janakpuri,Truck,Passenger,Head-on Collision,1,3,fatal
+DEL-ACC-00115,2024-01-03,evening,Janakpuri,Bus,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00116,2024-01-03,night,Shahdara,Truck,Driver,Overturning,1,3,fatal
+DEL-ACC-00117,2024-01-04,morning,Saket,Auto Rickshaw,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00118,2024-01-04,morning,Saket,Bus,Two-Wheeler Rider,Skidding,1,2,minor
+DEL-ACC-00119,2024-01-04,morning,Saket,Truck_err,Passenger,Rear-end Collision,0,2,serious
+DEL-ACC-00120,2024-01-04,afternoon,Mayur Vihar,Two-Wheeler,Cyclist,Hit and Run,0,2,serious
+DEL-ACC-00121,2024-01-04,afternoon,Mayur Vihar,Bus,Cyclist,Overturning,0,2,serious
+DEL-ACC-00122,2024-01-04,evening,Lajpat Nagar,Truck,Passenger,Overturning,0,1,moderate
+DEL-ACC-00123,2024-01-04,evening,Lajpat Nagar,Taxi,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00124,2024-01-04,evening,Lajpat Nagar,Two-Wheeler,Passenger,Side-swipe,0,2,serious
+DEL-ACC-00125,2024-01-04,night,Saket,Taxi,Pedestrian,Side-swipe,0,-5,serious
+DEL-ACC-00126,2024-01-04,night,Saket,Bus,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00127,2024-01-05,morning,Rohini,Truck,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00128,2024-01-05,morning,Rohini,Auto Rickshaw,Pedestrian,Head-on Collision,0,0,minor
+DEL-ACC-00129,2024-01-05,afternoon,Mayur Vihar,Bus,Two-Wheeler Rider,Overturning,1,2,fatal
+DEL-ACC-00130,2024-01-05,evening,Mayur Vihar,Truck,Driver,Hit and Run,0,1,moderate
+DEL-ACC-00131,2024-01-05,evening,Mayur Vihar,E-Rickshaw,Pedestrian,Rear-end Collision,0,2,serious
+DEL-ACC-00132,2024-01-05,night,Vikas Puri,Private Car,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00133,2024-01-06,morning,Karol Bagh,Bus,Passenger,Overturning,0,1,moderate
+DEL-ACC-00134,2024-01-06,afternoon,Hauz Khas,Two-Wheeler,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-00135,2024-01-06,evening,Okhla,Auto Rickshaw,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00136,2024-01-06,night,Okhla,Truck,Driver,Overturning,0,1,moderate
+DEL-ACC-00137,2024-01-07,morning,Patparganj,Taxi,Pedestrian,Hit and Run,0,1,moderate
+DEL-ACC-00138,2024-01-07,morning,Patparganj,Private Car,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00139,2024-01-07,afternoon,Mayur Vihar,Two-Wheeler,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-00140,2024-01-07,afternoon,Mayur Vihar,Private Car,Pedestrian,Overturning,0,2,serious
+DEL-ACC-00141,2024-01-07,evening,Rajouri Garden,Bus,Passenger,Skidding,0,1,moderate
+DEL-ACC-00142,2024-01-07,evening,Rajouri Garden,Truck,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00143,2024-01-07,evening,Rajouri Garden,Two-Wheeler,Driver,Skidding,0,2,serious
+DEL-ACC-00144,2024-01-07,night,Shahdara,Truck,Cyclist,Hit and Run,0,1,moderate
+DEL-ACC-00145,2024-01-07,night,Shahdara,Truck,Passenger,Overturning,0,-5,minor
+DEL-ACC-00146,2024-01-08,morning,Connaught Place,Auto Rickshaw,Cyclist,Side-swipe,0,2,serious
+DEL-ACC-00147,2024-01-08,morning,Connaught Place,Truck,Two-Wheeler Rider,Hit and Run,0,0,minor
+DEL-ACC-00148,2024-01-08,morning,Connaught Place,E-Rickshaw,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-00149,2024-01-08,afternoon,Patparganj,Private Car,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-00150,2024-01-08,afternoon,Patparganj,Private Car,Driver,Rear-end Collision,0,0,minor
+DEL-ACC-00151,2024-01-08,evening,Pitampura,2-wheeler,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00152,2024-01-08,evening,Pitampura,Auto Rickshaw,Passenger,Overturning,0,1,moderate
+DEL-ACC-00153,2024-01-08,evening,Pitampura,Taxi,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-00154,2024-01-08,night,Vasant Kunj,E-Rickshaw,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00155,2024-01-08,night,Vasant Kunj,Two-Wheeler,Pedestrian,Rear-end Collision,2,3,fatal
+DEL-ACC-00156,2024-01-09,morning,Pitampura,Taxi,Driver,Skidding,0,2,serious
+DEL-ACC-00157,2024-01-09,afternoon,Model Town,Two-Wheeler,Driver,Side-swipe,0,1,moderate
+DEL-ACC-00158,2024-01-09,evening,Dwarka,E-Rickshaw,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-00159,2024-01-09,evening,Dwarka,BUSS,Cyclist,Overturning,0,1,moderate
+DEL-ACC-00160,2024-01-09,night,Greater Kailash,car,Pedestrian,Hit and Run,0,1,moderate
+DEL-ACC-00161,2024-01-10,morning,Model Town,Bus,Two-Wheeler Rider,Side-swipe,2,3,fatal
+DEL-ACC-00162,2024-01-10,afternoon,Vasant Kunj,Bus,Passenger,Head-on Collision,2,2,fatal
+DEL-ACC-00163,2024-01-10,evening,Saket,E-Rickshaw,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00164,2024-01-10,evening,Saket,E-Rickshaw,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-00165,2024-01-10,night,Rajouri Garden,E-Rickshaw,Passenger,Overturning,0,2,serious
+DEL-ACC-00166,2024-01-11,morning,Okhla,Truck,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00167,2024-01-11,morning,Okhla,E-Rickshaw,Driver,Skidding,0,1,moderate
+DEL-ACC-00168,2024-01-11,morning,Okhla,Truck,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-00169,2024-01-11,afternoon,Pitampura,Truck,Cyclist,Side-swipe,1,3,minor
+DEL-ACC-00170,2024-01-11,afternoon,Pitampura,Taxi,Driver,Hit and Run,0,2,serious
+DEL-ACC-00171,2024-01-11,evening,Mayur Vihar,Auto Rickshaw,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-00172,2024-01-11,evening,Mayur Vihar,Bus,Driver,Hit and Run,0,2,serious
+DEL-ACC-00173,2024-01-11,evening,Mayur Vihar,E-Rickshaw,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00174,2024-01-11,night,Janakpuri,Bus,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00175,2024-01-11,night,Janakpuri,Two-Wheeler,Pedestrian,Overturning,0,0,minor
+DEL-ACC-00176,2024-01-12,morning,Okhla,Private Car,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00177,2024-01-12,morning,Okhla,Two-Wheeler,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-00178,2024-01-12,afternoon,Shahdara,Bus,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00179,2024-01-12,evening,Greater Kailash,Bus,Cyclist,Head-on Collision,1,1,fatal
+DEL-ACC-00180,2024-01-12,evening,Greater Kailash,Two-Wheeler,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-00181,2024-01-12,night,Vikas Puri,Truck,Pedestrian,Overturning,0,-5,moderate
+DEL-ACC-00182,2024-01-13,morning,Dwarka,Bus,Passenger,Side-swipe,1,1,minor
+DEL-ACC-00183,2024-01-13,morning,Dwarka,Taxi,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-00184,2024-01-13,afternoon,Model Town,Private Car,Driver,Overturning,0,2,serious
+DEL-ACC-00185,2024-01-13,afternoon,Model Town,Auto Rickshaw,Passenger,Skidding,0,0,minor
+DEL-ACC-00186,2024-01-13,evening,Janakpuri,Taxi,Two-Wheeler Rider,Rear-end Collision,0,2,serious
+DEL-ACC-00187,2024-01-13,evening,Janakpuri,Private Car,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-00188,2024-01-13,night,Dwarka,Private Car,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-00189,2024-01-13,night,Dwarka,E-Rickshaw,Driver,Side-swipe,1,2,minor
+DEL-ACC-00190,2024-01-14,morning,Saket,BUSS,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-00191,2024-01-14,morning,Saket,Private Car,Passenger,Hit and Run,0,2,serious
+DEL-ACC-00192,2024-01-14,afternoon,Lajpat Nagar,Bus,Passenger,Hit and Run,0,2,serious
+DEL-ACC-00193,2024-01-14,afternoon,Lajpat Nagar,Truck,Driver,Hit and Run,0,0,minor
+DEL-ACC-00194,2024-01-14,evening,Karol Bagh,Private Car,Cyclist,Side-swipe,0,1,moderate
+DEL-ACC-00195,2024-01-14,evening,Karol Bagh,Taxi,Passenger,Skidding,0,1,moderate
+DEL-ACC-00196,2024-01-14,evening,Karol Bagh,Taxi,Passenger,Overturning,0,2,serious
+DEL-ACC-00197,2024-01-14,night,Dwarka,Auto Rickshaw,Driver,Overturning,1,2,fatal
+DEL-ACC-00198,2024-01-14,night,Dwarka,Two-Wheeler,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-00199,2024-01-15,morning,Model Town,E-Rickshaw,Driver,Side-swipe,0,2,serious
+DEL-ACC-00200,2024-01-15,morning,Model Town,Truck,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-00201,2024-01-15,afternoon,Mayur Vihar,2-wheeler,Passenger,Side-swipe,0,0,minor
+DEL-ACC-00202,2024-01-15,evening,Saket,Private Car,Cyclist,Side-swipe,0,2,serious
+DEL-ACC-00203,2024-01-15,evening,Saket,car,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00204,2024-01-15,night,Karol Bagh,Two-Wheeler,Driver,Skidding,0,0,minor
+DEL-ACC-00205,2024-01-16,morning,Dwarka,Private Car,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00206,2024-01-16,morning,Dwarka,E-Rickshaw,Driver,Hit and Run,0,0,minor
+DEL-ACC-00207,2024-01-16,morning,Dwarka,Bus,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00208,2024-01-16,afternoon,Greater Kailash,car,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-00209,2024-01-16,afternoon,Greater Kailash,Two-Wheeler,Driver,Skidding,0,1,moderate
+DEL-ACC-00210,2024-01-16,evening,Hauz Khas,Truck,Cyclist,Overturning,1,1,fatal
+DEL-ACC-00211,2024-01-16,evening,Hauz Khas,Two-Wheeler,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00212,2024-01-16,evening,Hauz Khas,Bus,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00213,2024-01-16,night,Okhla,Bus,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-00214,2024-01-16,night,Okhla,Private Car,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-00215,2024-01-17,morning,Janakpuri,Two-Wheeler,Two-Wheeler Rider,Overturning,0,2,serious
+DEL-ACC-00216,2024-01-17,morning,Janakpuri,Truck,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-00217,2024-01-17,afternoon,Greater Kailash,Private Car,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00218,2024-01-17,afternoon,Greater Kailash,Private Car,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00219,2024-01-17,evening,Janakpuri,Private Car,Passenger,Overturning,0,0,minor
+DEL-ACC-00220,2024-01-17,evening,Janakpuri,Bus,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00221,2024-01-17,evening,Janakpuri,Auto Rickshaw,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-00222,2024-01-17,night,Hauz Khas,Two-Wheeler,Two-Wheeler Rider,Hit and Run,0,0,minor
+DEL-ACC-00223,2024-01-17,night,Hauz Khas,E-Rickshaw,Pedestrian,Head-on Collision,2,1,fatal
+DEL-ACC-00224,2024-01-18,morning,Paschim Vihar,Truck,Cyclist,Overturning,0,0,minor
+DEL-ACC-00225,2024-01-18,morning,Paschim Vihar,Truck,Passenger,Skidding,0,0,minor
+DEL-ACC-00226,2024-01-18,morning,Paschim Vihar,Auto Rickshaw,Two-Wheeler Rider,Hit and Run,0,0,minor
+DEL-ACC-00227,2024-01-18,afternoon,Model Town,Bus,Passenger,Head-on Collision,0,2,serious
+DEL-ACC-00228,2024-01-18,afternoon,Model Town,E-Rickshaw,Driver,Skidding,0,-5,serious
+DEL-ACC-00229,2024-01-18,evening,Okhla,Taxi,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-00230,2024-01-18,evening,Okhla,E-Rickshaw,Two-Wheeler Rider,Head-on Collision,0,2,serious
+DEL-ACC-00231,2024-01-18,evening,Okhla,Bus,Two-Wheeler Rider,Hit and Run,0,2,serious
+DEL-ACC-00232,2024-01-18,night,Paschim Vihar,Two-Wheeler,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-00233,2024-01-18,night,Paschim Vihar,E-Rickshaw,Two-Wheeler Rider,Overturning,0,2,serious
+DEL-ACC-00234,2024-01-19,morning,Vasant Kunj,Truck,Cyclist,Overturning,0,0,minor
+DEL-ACC-00235,2024-01-19,afternoon,Okhla,Bus,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00236,2024-01-19,evening,Paschim Vihar,Bus,Cyclist,Head-on Collision,2,1,fatal
+DEL-ACC-00237,2024-01-19,evening,Paschim Vihar,Taxi,Cyclist,Hit and Run,0,2,serious
+DEL-ACC-00238,2024-01-19,night,Rohini,Two-Wheeler,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00239,2024-01-20,morning,Pitampura,Private Car,Two-Wheeler Rider,Hit and Run,0,2,serious
+DEL-ACC-00240,2024-01-20,afternoon,Vasant Kunj,Two-Wheeler,Cyclist,Skidding,0,0,minor
+DEL-ACC-00241,2024-01-20,evening,Rohini,Private Car,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-00242,2024-01-20,night,Mayur Vihar,E-Rickshaw,Pedestrian,Overturning,0,0,minor
+DEL-ACC-00243,2024-01-21,morning,Janakpuri,Taxi,Cyclist,Side-swipe,0,1,moderate
+DEL-ACC-00244,2024-01-21,afternoon,Chandni Chowk,Taxi,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00245,2024-01-21,evening,Patparganj,Taxi,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00246,2024-01-21,evening,Patparganj,Private Car,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00247,2024-01-21,night,Vikas Puri,Truck,Pedestrian,Hit and Run,1,1,fatal
+DEL-ACC-00248,2024-01-22,morning,Janakpuri,Auto Rickshaw,Cyclist,Overturning,0,2,serious
+DEL-ACC-00249,2024-01-22,afternoon,Shahdara,Truck,Cyclist,Overturning,0,0,minor
+DEL-ACC-00250,2024-01-22,evening,Shahdara,Two-Wheeler,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-00251,2024-01-22,evening,Shahdara,E-Rickshaw,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00252,2024-01-22,night,Rohini,Private Car,Passenger,Skidding,0,0,minor
+DEL-ACC-00253,2024-01-23,morning,Connaught Place,Auto Rickshaw,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00254,2024-01-23,morning,Connaught Place,Auto Rickshaw,Passenger,Side-swipe,0,2,serious
+DEL-ACC-00255,2024-01-23,afternoon,Karol Bagh,Taxi,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00256,2024-01-23,afternoon,Karol Bagh,Bus,Two-Wheeler Rider,Hit and Run,0,2,serious
+DEL-ACC-00257,2024-01-23,evening,Pitampura,E-Rickshaw,Passenger,Head-on Collision,0,2,serious
+DEL-ACC-00258,2024-01-23,evening,Pitampura,E-Rickshaw,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00259,2024-01-23,evening,Pitampura,Private Car,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-00260,2024-01-23,night,Vasant Kunj,Two-Wheeler,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-00261,2024-01-23,night,Vasant Kunj,Private Car,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-00262,2024-01-24,morning,Pitampura,Two-Wheeler,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-00263,2024-01-24,morning,Pitampura,Two-Wheeler,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-00264,2024-01-24,afternoon,Vasant Kunj,Bus,Two-Wheeler Rider,Head-on Collision,1,1,minor
+DEL-ACC-00265,2024-01-24,afternoon,Vasant Kunj,Two-Wheeler,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-00266,2024-01-24,evening,Janakpuri,Bus,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00267,2024-01-24,evening,Janakpuri,Auto Rickshaw,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00268,2024-01-24,evening,Janakpuri,Auto Rickshaw,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-00269,2024-01-24,night,Mayur Vihar,Bus,Pedestrian,Overturning,1,1,minor
+DEL-ACC-00270,2024-01-24,night,Mayur Vihar,Private Car,Passenger,Head-on Collision,0,2,serious
+DEL-ACC-00271,2024-01-25,morning,Saket,Auto Rickshaw,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00272,2024-01-25,afternoon,Rohini,Truck,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00273,2024-01-25,evening,Hauz Khas,Bus,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00274,2024-01-25,evening,Hauz Khas,Private Car,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00275,2024-01-25,night,Connaught Place,Taxi,Driver,Skidding,0,-5,minor
+DEL-ACC-00276,2024-01-26,morning,Shahdara,Private Car,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00277,2024-01-26,morning,Shahdara,Taxi,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00278,2024-01-26,morning,Shahdara,E-Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00279,2024-01-26,afternoon,Mayur Vihar,Two-Wheeler,Two-Wheeler Rider,Hit and Run,0,1,moderate
+DEL-ACC-00280,2024-01-26,afternoon,Mayur Vihar,Truck,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-00281,2024-01-26,evening,Janakpuri,Private Car,Passenger,Side-swipe,0,2,serious
+DEL-ACC-00282,2024-01-26,evening,Janakpuri,Truck,Pedestrian,Overturning,1,3,fatal
+DEL-ACC-00283,2024-01-26,evening,Janakpuri,E-Rickshaw,Driver,Hit and Run,0,2,serious
+DEL-ACC-00284,2024-01-26,night,Shahdara,Taxi,Two-Wheeler Rider,Side-swipe,0,1,moderate
+DEL-ACC-00285,2024-01-26,night,Shahdara,Two-Wheeler,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00286,2024-01-27,morning,Rohini,E-Rickshaw,Cyclist,Overturning,0,1,moderate
+DEL-ACC-00287,2024-01-27,morning,Rohini,E-Rickshaw,Passenger,Side-swipe,0,0,minor
+DEL-ACC-00288,2024-01-27,afternoon,Shahdara,Private Car,Driver,Side-swipe,0,1,moderate
+DEL-ACC-00289,2024-01-27,evening,Connaught Place,Two-Wheeler,Driver,Hit and Run,0,0,minor
+DEL-ACC-00290,2024-01-27,night,Okhla,Taxi,Driver,Skidding,1,1,fatal
+DEL-ACC-00291,2024-01-28,morning,Greater Kailash,BUSS,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-00292,2024-01-28,morning,Greater Kailash,Bus,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00293,2024-01-28,afternoon,Shahdara,Two-Wheeler,Passenger,Side-swipe,0,2,serious
+DEL-ACC-00294,2024-01-28,afternoon,Shahdara,Auto Rickshaw,Two-Wheeler Rider,Hit and Run,0,2,serious
+DEL-ACC-00295,2024-01-28,evening,Rohini,Taxi,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00296,2024-01-28,evening,Rohini,Private Car,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-00297,2024-01-28,evening,Rohini,Two-Wheeler,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00298,2024-01-28,night,Connaught Place,Bus,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-00299,2024-01-28,night,Connaught Place,Taxi,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00300,2024-01-29,morning,Greater Kailash,E-Rickshaw,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-00301,2024-01-29,morning,Greater Kailash,Truck,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-00302,2024-01-29,morning,Greater Kailash,Two-Wheeler,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00303,2024-01-29,afternoon,Pitampura,Two-Wheeler,Driver,Overturning,0,2,serious
+DEL-ACC-00304,2024-01-29,afternoon,Pitampura,Private Car,Driver,Head-on Collision,0,2,serious
+DEL-ACC-00305,2024-01-29,evening,Vasant Kunj,Private Car,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-00306,2024-01-29,evening,Vasant Kunj,Private Car,Pedestrian,Rear-end Collision,0,2,serious
+DEL-ACC-00307,2024-01-29,evening,Vasant Kunj,Auto Rickshaw,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00308,2024-01-29,night,Okhla,Private Car,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00309,2024-01-29,night,Okhla,Truck,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-00310,2024-01-30,morning,Okhla,E-Rickshaw,Passenger,Overturning,0,2,serious
+DEL-ACC-00311,2024-01-30,morning,Okhla,Two-Wheeler,Two-Wheeler Rider,Overturning,0,2,serious
+DEL-ACC-00312,2024-01-30,afternoon,Karol Bagh,Private Car,Passenger,Rear-end Collision,0,-5,serious
+DEL-ACC-00313,2024-01-30,evening,Paschim Vihar,Private Car,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00314,2024-01-30,evening,Paschim Vihar,E-Rickshaw,Two-Wheeler Rider,Hit and Run,0,1,moderate
+DEL-ACC-00315,2024-01-30,night,Patparganj,Two-Wheeler,Driver,Side-swipe,2,3,minor
+DEL-ACC-00316,2024-01-31,morning,Pitampura,Two-Wheeler,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00317,2024-01-31,morning,Pitampura,Auto Rickshaw,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00318,2024-01-31,morning,Pitampura,Taxi,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00319,2024-01-31,morning,Pitampura,Taxi,Two-Wheeler Rider,Rear-end Collision,0,2,serious
+DEL-ACC-00320,2024-01-31,afternoon,Vikas Puri,Auto Rickshaw,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00321,2024-01-31,afternoon,Vikas Puri,Bus,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00322,2024-01-31,evening,Rajouri Garden,E-Rickshaw,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00323,2024-01-31,evening,Rajouri Garden,Bus,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00324,2024-01-31,evening,Rajouri Garden,E-Rickshaw,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00325,2024-01-31,night,Dwarka,Private Car,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00326,2024-01-31,night,Dwarka,Two-Wheeler,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00327,2024-01-31,night,Dwarka,E-Rickshaw,Passenger,Skidding,2,3,fatal
+DEL-ACC-00328,2024-02-01,morning,Connaught Place,Taxi_err,Driver,Skidding,0,1,moderate
+DEL-ACC-00329,2024-02-01,morning,Connaught Place,Taxi,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00330,2024-02-01,morning,Connaught Place,Taxi,Passenger,Rear-end Collision,0,0,minor
+DEL-ACC-00331,2024-02-01,afternoon,Pitampura,E-Rickshaw,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-00332,2024-02-01,afternoon,Pitampura,Taxi,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00333,2024-02-01,afternoon,Pitampura,E-Rickshaw,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-00334,2024-02-01,evening,Paschim Vihar,Bus,Two-Wheeler Rider,Skidding,2,1,fatal
+DEL-ACC-00335,2024-02-01,evening,Paschim Vihar,Bus,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-00336,2024-02-01,evening,Paschim Vihar,Private Car,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-00337,2024-02-01,evening,Paschim Vihar,Taxi,Cyclist,Hit and Run,0,1,moderate
+DEL-ACC-00338,2024-02-01,night,Okhla,Truck,Driver,Hit and Run,2,3,fatal
+DEL-ACC-00339,2024-02-01,night,Okhla,Taxi,Cyclist,Overturning,2,2,minor
+DEL-ACC-00340,2024-02-01,night,Okhla,Taxi,Cyclist,Overturning,0,0,minor
+DEL-ACC-00341,2024-02-02,morning,Chandni Chowk,Taxi,Driver,Hit and Run,0,2,serious
+DEL-ACC-00342,2024-02-02,morning,Chandni Chowk,Truck,Cyclist,Skidding,1,3,minor
+DEL-ACC-00343,2024-02-02,afternoon,Dwarka,Private Car,Driver,Skidding,0,2,serious
+DEL-ACC-00344,2024-02-02,evening,Paschim Vihar,Auto Rickshaw,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00345,2024-02-02,evening,Paschim Vihar,Auto Rickshaw,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00346,2024-02-02,night,Pitampura,Auto Rickshaw,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00347,2024-02-03,morning,Patparganj,Auto Rickshaw,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-00348,2024-02-03,afternoon,Saket,Bus,Pedestrian,Overturning,0,2,serious
+DEL-ACC-00349,2024-02-03,evening,Karol Bagh,Private Car,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-00350,2024-02-03,night,Paschim Vihar,Truck,Passenger,Overturning,0,2,serious
+DEL-ACC-00351,2024-02-04,morning,Lajpat Nagar,Bus,Two-Wheeler Rider,Skidding,1,2,fatal
+DEL-ACC-00352,2024-02-04,morning,Lajpat Nagar,Auto Rickshaw,Two-Wheeler Rider,Side-swipe,0,1,moderate
+DEL-ACC-00353,2024-02-04,morning,Lajpat Nagar,Private Car,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00354,2024-02-04,afternoon,Mayur Vihar,Bus,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-00355,2024-02-04,afternoon,Mayur Vihar,Bus,Driver,Rear-end Collision,2,1,minor
+DEL-ACC-00356,2024-02-04,evening,Mayur Vihar,Taxi,Passenger,Skidding,0,0,minor
+DEL-ACC-00357,2024-02-04,evening,Mayur Vihar,Private Car,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00358,2024-02-04,evening,Mayur Vihar,Two-Wheeler,Driver,Skidding,0,1,moderate
+DEL-ACC-00359,2024-02-04,evening,Mayur Vihar,Bus,Two-Wheeler Rider,Skidding,2,2,minor
+DEL-ACC-00360,2024-02-04,night,Rajouri Garden,Truck,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00361,2024-02-04,night,Rajouri Garden,Truck,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00362,2024-02-04,night,Rajouri Garden,Truck,Cyclist,Skidding,2,2,minor
+DEL-ACC-00363,2024-02-05,morning,Chandni Chowk,E-Rickshaw,Passenger,Rear-end Collision,0,0,minor
+DEL-ACC-00364,2024-02-05,morning,Chandni Chowk,Taxi,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00365,2024-02-05,afternoon,Pitampura,Auto Rickshaw,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00366,2024-02-05,evening,Rohini,Auto Rickshaw,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00367,2024-02-05,evening,Rohini,car,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-00368,2024-02-05,night,Rohini,Taxi,Passenger,Overturning,1,2,fatal
+DEL-ACC-00369,2024-02-06,morning,Rajouri Garden,Two-Wheeler,Two-Wheeler Rider,Side-swipe,0,1,moderate
+DEL-ACC-00370,2024-02-06,afternoon,Paschim Vihar,Private Car,Driver,Hit and Run,0,0,minor
+DEL-ACC-00371,2024-02-06,evening,Vasant Kunj,Two-Wheeler,Cyclist,Hit and Run,0,1,moderate
+DEL-ACC-00372,2024-02-06,evening,Vasant Kunj,Private Car,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00373,2024-02-06,night,Shahdara,Private Car,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-00374,2024-02-07,morning,Pitampura,Private Car,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00375,2024-02-07,afternoon,Lajpat Nagar,Two-Wheeler,Driver,Skidding,0,1,moderate
+DEL-ACC-00376,2024-02-07,evening,Janakpuri,Truck,Two-Wheeler Rider,Skidding,1,2,fatal
+DEL-ACC-00377,2024-02-07,evening,Janakpuri,E-Rickshaw,Cyclist,Hit and Run,0,1,moderate
+DEL-ACC-00378,2024-02-07,night,Vasant Kunj,Bus,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-00379,2024-02-08,morning,Connaught Place,Private Car,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00380,2024-02-08,afternoon,Rohini,Private Car,Passenger,Hit and Run,0,2,serious
+DEL-ACC-00381,2024-02-08,evening,Patparganj,Two-Wheeler,Driver,Skidding,0,0,minor
+DEL-ACC-00382,2024-02-08,evening,Patparganj,Truck,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-00383,2024-02-08,night,Karol Bagh,E-Rickshaw,Passenger,Rear-end Collision,0,2,serious
+DEL-ACC-00384,2024-02-09,morning,Mayur Vihar,Truck,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00385,2024-02-09,afternoon,Okhla,Truck,Driver,Hit and Run,1,1,fatal
+DEL-ACC-00386,2024-02-09,evening,Vasant Kunj,Auto Rickshaw,Cyclist,Skidding,0,0,minor
+DEL-ACC-00387,2024-02-09,evening,Vasant Kunj,E-Rickshaw,Cyclist,Skidding,0,2,serious
+DEL-ACC-00388,2024-02-09,night,Rajouri Garden,Taxi,Driver,Skidding,0,2,serious
+DEL-ACC-00389,2024-02-10,morning,Vikas Puri,Private Car,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-00390,2024-02-10,afternoon,Vikas Puri,Two-Wheeler,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00391,2024-02-10,evening,Rajouri Garden,Auto Rickshaw,Passenger,Overturning,0,1,moderate
+DEL-ACC-00392,2024-02-10,night,Mayur Vihar,Truck,Two-Wheeler Rider,Skidding,1,3,fatal
+DEL-ACC-00393,2024-02-11,morning,Pitampura,Auto Rickshaw,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00394,2024-02-11,afternoon,Saket,Private Car,Pedestrian,Overturning,0,0,minor
+DEL-ACC-00395,2024-02-11,evening,Shahdara,E-Rickshaw,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-00396,2024-02-11,evening,Shahdara,Private Car,Driver,Side-swipe,0,0,minor
+DEL-ACC-00397,2024-02-11,night,Vikas Puri,Auto Rickshaw,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-00398,2024-02-12,morning,Connaught Place,Taxi,Two-Wheeler Rider,Hit and Run,0,2,serious
+DEL-ACC-00399,2024-02-12,afternoon,Vikas Puri,Bus,Passenger,Head-on Collision,0,2,serious
+DEL-ACC-00400,2024-02-12,evening,Vikas Puri,Auto Rickshaw,Driver,Side-swipe,0,0,minor
+DEL-ACC-00401,2024-02-12,evening,Vikas Puri,Auto Rickshaw,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00402,2024-02-12,night,Vikas Puri,Taxi,Passenger,Head-on Collision,0,2,serious
+DEL-ACC-00403,2024-02-13,morning,Saket,Auto Rickshaw,Driver,Head-on Collision,0,2,serious
+DEL-ACC-00404,2024-02-13,morning,Saket,Private Car,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-00405,2024-02-13,morning,Saket,Bus,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-00406,2024-02-13,afternoon,Saket,Two-Wheeler,Cyclist,Side-swipe,0,2,serious
+DEL-ACC-00407,2024-02-13,afternoon,Saket,Taxi,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00408,2024-02-13,evening,Connaught Place,Two-Wheeler,Passenger,Overturning,0,1,moderate
+DEL-ACC-00409,2024-02-13,evening,Connaught Place,Two-Wheeler,Passenger,Side-swipe,0,0,minor
+DEL-ACC-00410,2024-02-13,evening,Connaught Place,E-Rickshaw,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-00411,2024-02-13,night,Rohini,Truck,Pedestrian,Rear-end Collision,2,2,minor
+DEL-ACC-00412,2024-02-13,night,Rohini,E-Rickshaw,Passenger,Skidding,0,2,serious
+DEL-ACC-00413,2024-02-14,morning,Rohini,Taxi,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-00414,2024-02-14,morning,Rohini,Taxi,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-00415,2024-02-14,morning,Rohini,E-Rickshaw,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00416,2024-02-14,afternoon,Patparganj,E-Rickshaw,Passenger,Skidding,0,2,serious
+DEL-ACC-00417,2024-02-14,afternoon,Patparganj,E-Rickshaw,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-00418,2024-02-14,evening,Saket,Bus,Pedestrian,Hit and Run,0,0,minor
+DEL-ACC-00419,2024-02-14,evening,Saket,Private Car,Cyclist,Skidding,0,0,minor
+DEL-ACC-00420,2024-02-14,evening,Saket,Taxi,Passenger,Skidding,0,1,moderate
+DEL-ACC-00421,2024-02-14,night,Mayur Vihar,Bus,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-00422,2024-02-14,night,Mayur Vihar,Bus,Two-Wheeler Rider,Skidding,1,-5,fatal
+DEL-ACC-00423,2024-02-15,morning,Lajpat Nagar,Private Car,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00424,2024-02-15,morning,Lajpat Nagar,Private Car,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00425,2024-02-15,afternoon,Dwarka,Bus,Passenger,Side-swipe,0,0,minor
+DEL-ACC-00426,2024-02-15,evening,Chandni Chowk,Two-Wheeler,Driver,Overturning,0,0,minor
+DEL-ACC-00427,2024-02-15,evening,Chandni Chowk,Two-Wheeler,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00428,2024-02-15,night,Vikas Puri,Private Car,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-00429,2024-02-16,morning,Lajpat Nagar,Taxi,Cyclist,Side-swipe,0,2,serious
+DEL-ACC-00430,2024-02-16,morning,Lajpat Nagar,Bus,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-00431,2024-02-16,afternoon,Connaught Place,Taxi,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00432,2024-02-16,evening,Rajouri Garden,Bus,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00433,2024-02-16,evening,Rajouri Garden,Two-Wheeler,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-00434,2024-02-16,night,Saket,Bus,Pedestrian,Overturning,0,2,serious
+DEL-ACC-00435,2024-02-17,morning,Lajpat Nagar,BUSS,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00436,2024-02-17,afternoon,Chandni Chowk,Auto Rickshaw,Pedestrian,Side-swipe,0,0,minor
+DEL-ACC-00437,2024-02-17,evening,Hauz Khas,Auto Rickshaw,Driver,Side-swipe,0,1,moderate
+DEL-ACC-00438,2024-02-17,evening,Hauz Khas,Truck,Driver,Head-on Collision,1,2,fatal
+DEL-ACC-00439,2024-02-17,night,Hauz Khas,E-Rickshaw,Cyclist,Hit and Run,2,3,fatal
+DEL-ACC-00440,2024-02-18,morning,Rohini,Auto Rickshaw,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00441,2024-02-18,afternoon,Vasant Kunj,Two-Wheeler,Cyclist,Skidding,0,-5,moderate
+DEL-ACC-00442,2024-02-18,evening,Lajpat Nagar,Truck,Cyclist,Overturning,0,2,serious
+DEL-ACC-00443,2024-02-18,evening,Lajpat Nagar,BUSS,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00444,2024-02-18,night,Hauz Khas,E-Rickshaw,Driver,Overturning,1,2,fatal
+DEL-ACC-00445,2024-02-19,morning,Shahdara,Taxi,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-00446,2024-02-19,afternoon,Rajouri Garden,E-Rickshaw,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00447,2024-02-19,evening,Dwarka,Taxi,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-00448,2024-02-19,evening,Dwarka,Bus,Driver,Skidding,0,0,minor
+DEL-ACC-00449,2024-02-19,night,Patparganj,Private Car,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-00450,2024-02-20,morning,Shahdara,Taxi,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-00451,2024-02-20,morning,Shahdara,E-Rickshaw,Passenger,Skidding,0,0,minor
+DEL-ACC-00452,2024-02-20,morning,Shahdara,Auto Rickshaw,Driver,Skidding,0,1,moderate
+DEL-ACC-00453,2024-02-20,afternoon,Patparganj,Bus,Cyclist,Skidding,0,0,minor
+DEL-ACC-00454,2024-02-20,afternoon,Patparganj,Truck_err,Cyclist,Overturning,0,2,serious
+DEL-ACC-00455,2024-02-20,afternoon,Patparganj,Bus,Passenger,Skidding,0,2,serious
+DEL-ACC-00456,2024-02-20,evening,Rajouri Garden,Taxi,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00457,2024-02-20,evening,Rajouri Garden,Bus,Cyclist,Skidding,0,2,serious
+DEL-ACC-00458,2024-02-20,evening,Rajouri Garden,Truck,Passenger,Skidding,0,-5,minor
+DEL-ACC-00459,2024-02-20,evening,Rajouri Garden,Two-Wheeler,Passenger,Skidding,0,1,moderate
+DEL-ACC-00460,2024-02-20,night,Pitampura,Taxi,Pedestrian,Hit and Run,0,-5,serious
+DEL-ACC-00461,2024-02-20,night,Pitampura,E-Rickshaw,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-00462,2024-02-21,morning,Rajouri Garden,Bus,Passenger,Rear-end Collision,0,1,moderate
+DEL-ACC-00463,2024-02-21,afternoon,Vasant Kunj,Private Car,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-00464,2024-02-21,evening,Rohini,E-Rickshaw,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-00465,2024-02-21,evening,Rohini,Taxi,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-00466,2024-02-21,night,Janakpuri,Private Car,Two-Wheeler Rider,Side-swipe,0,1,moderate
+DEL-ACC-00467,2024-02-22,morning,Pitampura,Auto Rickshaw,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00468,2024-02-22,afternoon,Model Town,Taxi,Cyclist,Overturning,0,1,moderate
+DEL-ACC-00469,2024-02-22,evening,Janakpuri,Truck,Driver,Skidding,0,0,minor
+DEL-ACC-00470,2024-02-22,evening,Janakpuri,Private Car,Pedestrian,Hit and Run,0,1,moderate
+DEL-ACC-00471,2024-02-22,night,Rohini,Bus,Two-Wheeler Rider,Overturning,0,2,serious
+DEL-ACC-00472,2024-02-23,morning,Chandni Chowk,Two-Wheeler,Cyclist,Side-swipe,0,0,minor
+DEL-ACC-00473,2024-02-23,morning,Chandni Chowk,Auto Rickshaw,Cyclist,Overturning,0,2,serious
+DEL-ACC-00474,2024-02-23,afternoon,Model Town,Truck,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-00475,2024-02-23,evening,Karol Bagh,E-Rickshaw,Driver,Hit and Run,0,0,minor
+DEL-ACC-00476,2024-02-23,evening,Karol Bagh,Bus,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00477,2024-02-23,night,Shahdara,Bus,Two-Wheeler Rider,Head-on Collision,0,2,serious
+DEL-ACC-00478,2024-02-24,morning,Pitampura,Two-Wheeler,Passenger,Skidding,0,1,moderate
+DEL-ACC-00479,2024-02-24,afternoon,Hauz Khas,Bus,Cyclist,Side-swipe,1,3,fatal
+DEL-ACC-00480,2024-02-24,evening,Hauz Khas,Truck,Driver,Hit and Run,1,3,minor
+DEL-ACC-00481,2024-02-24,evening,Hauz Khas,Two-Wheeler,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00482,2024-02-24,night,Rajouri Garden,Bus,Driver,Skidding,0,1,moderate
+DEL-ACC-00483,2024-02-25,morning,Vikas Puri,Truck,Driver,Side-swipe,0,0,minor
+DEL-ACC-00484,2024-02-25,afternoon,Saket,Private Car,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00485,2024-02-25,evening,Rohini,E-Rickshaw,Driver,Side-swipe,0,0,minor
+DEL-ACC-00486,2024-02-25,night,Hauz Khas,Private Car,Passenger,Overturning,0,0,minor
+DEL-ACC-00487,2024-02-26,morning,Mayur Vihar,Two-Wheeler,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00488,2024-02-26,morning,Mayur Vihar,Bus,Cyclist,Head-on Collision,1,3,fatal
+DEL-ACC-00489,2024-02-26,afternoon,Connaught Place,Taxi,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00490,2024-02-26,evening,Connaught Place,Taxi,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00491,2024-02-26,evening,Connaught Place,Two-Wheeler,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00492,2024-02-26,night,Vasant Kunj,Bus,Two-Wheeler Rider,Head-on Collision,1,3,fatal
+DEL-ACC-00493,2024-02-27,morning,Vasant Kunj,Taxi,Driver,Overturning,0,0,minor
+DEL-ACC-00494,2024-02-27,afternoon,Shahdara,Taxi,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-00495,2024-02-27,evening,Patparganj,E-Rickshaw,Passenger,Rear-end Collision,0,2,serious
+DEL-ACC-00496,2024-02-27,evening,Patparganj,Private Car,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-00497,2024-02-27,night,Hauz Khas,Private Car,Pedestrian,Hit and Run,0,-5,moderate
+DEL-ACC-00498,2024-02-28,morning,Hauz Khas,Truck,Driver,Skidding,0,2,serious
+DEL-ACC-00499,2024-02-28,afternoon,Shahdara,Bus,Driver,Skidding,0,2,serious
+DEL-ACC-00500,2024-02-28,evening,Rajouri Garden,Truck,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-00501,2024-02-28,evening,Rajouri Garden,Truck,Two-Wheeler Rider,Overturning,2,1,minor
+DEL-ACC-00502,2024-02-28,night,Rohini,E-Rickshaw,Two-Wheeler Rider,Side-swipe,2,1,fatal
+DEL-ACC-00503,2024-02-29,morning,Rajouri Garden,Truck,Driver,Hit and Run,0,1,moderate
+DEL-ACC-00504,2024-02-29,morning,Rajouri Garden,Bus,Pedestrian,Side-swipe,1,3,fatal
+DEL-ACC-00505,2024-02-29,afternoon,Chandni Chowk,Auto Rickshaw,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00506,2024-02-29,evening,Vikas Puri,Truck,Cyclist,Hit and Run,0,2,serious
+DEL-ACC-00507,2024-02-29,evening,Vikas Puri,Two-Wheeler,Passenger,Side-swipe,0,2,serious
+DEL-ACC-00508,2024-02-29,night,Janakpuri,E-Rickshaw,Cyclist,Head-on Collision,2,3,fatal
+DEL-ACC-00509,2024-03-01,morning,Dwarka,Private Car,Passenger,Rear-end Collision,0,1,moderate
+DEL-ACC-00510,2024-03-01,morning,Dwarka,Auto Rickshaw,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-00511,2024-03-01,afternoon,Lajpat Nagar,Private Car,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-00512,2024-03-01,evening,Janakpuri,E-Rickshaw,Passenger,Rear-end Collision,0,1,moderate
+DEL-ACC-00513,2024-03-01,evening,Janakpuri,Bus,Pedestrian,Overturning,0,0,minor
+DEL-ACC-00514,2024-03-01,night,Rajouri Garden,Truck,Driver,Rear-end Collision,0,0,minor
+DEL-ACC-00515,2024-03-02,morning,Shahdara,Auto Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00516,2024-03-02,morning,Shahdara,Auto Rickshaw,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00517,2024-03-02,morning,Shahdara,Auto Rickshaw,Cyclist,Skidding,0,2,serious
+DEL-ACC-00518,2024-03-02,afternoon,Hauz Khas,Private Car,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00519,2024-03-02,afternoon,Hauz Khas,Taxi_err,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00520,2024-03-02,evening,Shahdara,Two-Wheeler,Driver,Skidding,0,2,serious
+DEL-ACC-00521,2024-03-02,evening,Shahdara,Truck,Two-Wheeler Rider,Skidding,0,-5,serious
+DEL-ACC-00522,2024-03-02,evening,Shahdara,Taxi,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00523,2024-03-02,evening,Shahdara,E-Rickshaw,Passenger,Skidding,0,1,moderate
+DEL-ACC-00524,2024-03-02,night,Model Town,Auto Rickshaw,Driver,Skidding,0,0,minor
+DEL-ACC-00525,2024-03-02,night,Model Town,Taxi,Pedestrian,Skidding,0,-5,moderate
+DEL-ACC-00526,2024-03-02,night,Model Town,Two-Wheeler,Pedestrian,Head-on Collision,1,2,fatal
+DEL-ACC-00527,2024-03-03,morning,Greater Kailash,Bus,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00528,2024-03-03,morning,Greater Kailash,Bus,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-00529,2024-03-03,afternoon,Model Town,Truck,Driver,Head-on Collision,0,2,serious
+DEL-ACC-00530,2024-03-03,afternoon,Model Town,Truck,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00531,2024-03-03,evening,Saket,Private Car,Passenger,Skidding,0,1,moderate
+DEL-ACC-00532,2024-03-03,evening,Saket,Two-Wheeler,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00533,2024-03-03,evening,Saket,Bus,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00534,2024-03-03,evening,Saket,Taxi,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00535,2024-03-03,night,Shahdara,E-Rickshaw,Pedestrian,Skidding,2,3,fatal
+DEL-ACC-00536,2024-03-03,night,Shahdara,Private Car,Driver,Skidding,1,3,minor
+DEL-ACC-00537,2024-03-03,night,Shahdara,Private Car,Cyclist,Side-swipe,1,2,fatal
+DEL-ACC-00538,2024-03-04,morning,Hauz Khas,E-Rickshaw,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-00539,2024-03-04,afternoon,Vasant Kunj,Private Car,Two-Wheeler Rider,Head-on Collision,0,-5,minor
+DEL-ACC-00540,2024-03-04,evening,Dwarka,Two-Wheeler,Driver,Hit and Run,0,1,moderate
+DEL-ACC-00541,2024-03-04,evening,Dwarka,Bus,Cyclist,Hit and Run,0,-5,minor
+DEL-ACC-00542,2024-03-04,night,Rohini,Taxi,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00543,2024-03-05,morning,Dwarka,Truck,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-00544,2024-03-05,afternoon,Rohini,Auto Rickshaw,Driver,Hit and Run,0,0,minor
+DEL-ACC-00545,2024-03-05,evening,Greater Kailash,Bus,Pedestrian,Hit and Run,0,0,minor
+DEL-ACC-00546,2024-03-05,evening,Greater Kailash,Private Car,Driver,Overturning,0,1,moderate
+DEL-ACC-00547,2024-03-05,night,Hauz Khas,Bus,Driver,Hit and Run,0,2,serious
+DEL-ACC-00548,2024-03-06,morning,Rajouri Garden,Taxi,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-00549,2024-03-06,morning,Rajouri Garden,Bus,Pedestrian,Side-swipe,0,0,minor
+DEL-ACC-00550,2024-03-06,afternoon,Janakpuri,Auto Rickshaw,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00551,2024-03-06,evening,Pitampura,Two-Wheeler,Two-Wheeler Rider,Side-swipe,0,1,moderate
+DEL-ACC-00552,2024-03-06,evening,Pitampura,E-Rickshaw,Cyclist,Side-swipe,0,1,moderate
+DEL-ACC-00553,2024-03-06,night,Shahdara,Two-Wheeler,Passenger,Side-swipe,2,1,fatal
+DEL-ACC-00554,2024-03-07,morning,Vikas Puri,Truck,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00555,2024-03-07,morning,Vikas Puri,Truck,Pedestrian,Head-on Collision,1,1,fatal
+DEL-ACC-00556,2024-03-07,afternoon,Rohini,Bus,Pedestrian,Hit and Run,0,1,moderate
+DEL-ACC-00557,2024-03-07,evening,Hauz Khas,Auto Rickshaw,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00558,2024-03-07,evening,Hauz Khas,E-Rickshaw,Driver,Overturning,0,1,moderate
+DEL-ACC-00559,2024-03-07,night,Mayur Vihar,E-Rickshaw,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00560,2024-03-08,morning,Patparganj,Bus,Two-Wheeler Rider,Side-swipe,2,2,minor
+DEL-ACC-00561,2024-03-08,afternoon,Greater Kailash,Taxi,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-00562,2024-03-08,evening,Lajpat Nagar,Private Car,Pedestrian,Hit and Run,0,1,moderate
+DEL-ACC-00563,2024-03-08,evening,Lajpat Nagar,Two-Wheeler,Passenger,Overturning,0,0,minor
+DEL-ACC-00564,2024-03-08,night,Lajpat Nagar,E-Rickshaw,Passenger,Overturning,1,2,fatal
+DEL-ACC-00565,2024-03-09,morning,Paschim Vihar,Auto Rickshaw,Driver,Overturning,0,0,minor
+DEL-ACC-00566,2024-03-09,afternoon,Patparganj,2-wheeler,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-00567,2024-03-09,evening,Janakpuri,Taxi,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-00568,2024-03-09,evening,Janakpuri,Private Car,Pedestrian,Head-on Collision,0,0,minor
+DEL-ACC-00569,2024-03-09,night,Saket,Private Car,Passenger,Rear-end Collision,0,1,moderate
+DEL-ACC-00570,2024-03-10,morning,Rohini,2-wheeler,Passenger,Side-swipe,0,0,minor
+DEL-ACC-00571,2024-03-10,afternoon,Okhla,Truck,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00572,2024-03-10,evening,Rohini,Bus,Driver,Hit and Run,2,1,fatal
+DEL-ACC-00573,2024-03-10,night,Connaught Place,Private Car,Pedestrian,Rear-end Collision,1,3,fatal
+DEL-ACC-00574,2024-03-11,morning,Hauz Khas,Private Car,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00575,2024-03-11,morning,Hauz Khas,Auto Rickshaw,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00576,2024-03-11,afternoon,Patparganj,Taxi,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00577,2024-03-11,evening,Dwarka,Bus,Cyclist,Rear-end Collision,1,2,fatal
+DEL-ACC-00578,2024-03-11,evening,Dwarka,E-Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00579,2024-03-11,night,Shahdara,Auto Rickshaw,Driver,Hit and Run,0,1,moderate
+DEL-ACC-00580,2024-03-12,morning,Vikas Puri,Truck,Driver,Overturning,0,1,moderate
+DEL-ACC-00581,2024-03-12,afternoon,Vikas Puri,Bus,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00582,2024-03-12,evening,Mayur Vihar,Truck,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-00583,2024-03-12,evening,Mayur Vihar,E-Rickshaw,Cyclist,Side-swipe,0,2,serious
+DEL-ACC-00584,2024-03-12,night,Greater Kailash,Private Car,Two-Wheeler Rider,Side-swipe,0,-5,moderate
+DEL-ACC-00585,2024-03-13,morning,Lajpat Nagar,Private Car,Passenger,Skidding,0,2,serious
+DEL-ACC-00586,2024-03-13,afternoon,Shahdara,Two-Wheeler,Driver,Head-on Collision,0,2,serious
+DEL-ACC-00587,2024-03-13,evening,Vasant Kunj,Truck,Passenger,Head-on Collision,1,2,fatal
+DEL-ACC-00588,2024-03-13,evening,Vasant Kunj,Auto Rickshaw,Driver,Rear-end Collision,0,0,minor
+DEL-ACC-00589,2024-03-13,night,Connaught Place,Two-Wheeler,Driver,Rear-end Collision,0,0,minor
+DEL-ACC-00590,2024-03-14,morning,Vikas Puri,BUSS,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00591,2024-03-14,morning,Vikas Puri,Private Car,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-00592,2024-03-14,afternoon,Greater Kailash,Auto Rickshaw,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00593,2024-03-14,evening,Shahdara,Two-Wheeler,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00594,2024-03-14,evening,Shahdara,Taxi_err,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00595,2024-03-14,night,Rohini,Private Car,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-00596,2024-03-15,morning,Rajouri Garden,Two-Wheeler,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00597,2024-03-15,morning,Rajouri Garden,Taxi,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00598,2024-03-15,afternoon,Rohini,E-Rickshaw,Cyclist,Hit and Run,0,2,serious
+DEL-ACC-00599,2024-03-15,evening,Shahdara,E-Rickshaw,Driver,Rear-end Collision,0,0,minor
+DEL-ACC-00600,2024-03-15,evening,Shahdara,Auto Rickshaw,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-00601,2024-03-15,night,Model Town,E-Rickshaw,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-00602,2024-03-16,morning,Karol Bagh,Two-Wheeler,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00603,2024-03-16,afternoon,Shahdara,Private Car,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00604,2024-03-16,evening,Janakpuri,E-Rickshaw_err,Pedestrian,Rear-end Collision,0,2,serious
+DEL-ACC-00605,2024-03-16,night,Greater Kailash,Truck,Cyclist,Side-swipe,2,1,fatal
+DEL-ACC-00606,2024-03-17,morning,Model Town,Truck,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00607,2024-03-17,afternoon,Okhla,Truck,Passenger,Hit and Run,0,2,serious
+DEL-ACC-00608,2024-03-17,evening,Saket,Auto Rickshaw,Driver,Head-on Collision,0,-5,moderate
+DEL-ACC-00609,2024-03-17,night,Karol Bagh,Auto Rickshaw,Driver,Side-swipe,1,2,fatal
+DEL-ACC-00610,2024-03-18,morning,Saket,Truck,Two-Wheeler Rider,Overturning,0,2,serious
+DEL-ACC-00611,2024-03-18,afternoon,Vikas Puri,Two-Wheeler,Pedestrian,Side-swipe,0,-5,moderate
+DEL-ACC-00612,2024-03-18,evening,Janakpuri,Truck,Two-Wheeler Rider,Rear-end Collision,1,3,fatal
+DEL-ACC-00613,2024-03-18,evening,Janakpuri,Auto Rickshaw,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00614,2024-03-18,night,Rohini,Two-Wheeler,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00615,2024-03-19,morning,Vasant Kunj,Two-Wheeler,Driver,Overturning,0,2,serious
+DEL-ACC-00616,2024-03-19,afternoon,Chandni Chowk,Two-Wheeler,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-00617,2024-03-19,evening,Hauz Khas,Private Car,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-00618,2024-03-19,evening,Hauz Khas,Bus,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-00619,2024-03-19,night,Pitampura,Private Car,Driver,Hit and Run,2,2,minor
+DEL-ACC-00620,2024-03-20,morning,Karol Bagh,Two-Wheeler,Driver,Skidding,0,2,serious
+DEL-ACC-00621,2024-03-20,morning,Karol Bagh,Truck,Pedestrian,Side-swipe,0,0,minor
+DEL-ACC-00622,2024-03-20,afternoon,Shahdara,E-Rickshaw,Driver,Overturning,0,1,moderate
+DEL-ACC-00623,2024-03-20,evening,Model Town,Truck,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-00624,2024-03-20,evening,Model Town,car,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00625,2024-03-20,night,Paschim Vihar,Private Car,Passenger,Skidding,0,0,minor
+DEL-ACC-00626,2024-03-21,morning,Pitampura,Auto Rickshaw,Passenger,Skidding,0,0,minor
+DEL-ACC-00627,2024-03-21,morning,Pitampura,E-Rickshaw,Passenger,Skidding,0,1,moderate
+DEL-ACC-00628,2024-03-21,afternoon,Dwarka,Private Car,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00629,2024-03-21,evening,Paschim Vihar,Private Car,Pedestrian,Overturning,0,0,minor
+DEL-ACC-00630,2024-03-21,evening,Paschim Vihar,Truck,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00631,2024-03-21,night,Rajouri Garden,Truck,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-00632,2024-03-22,morning,Rohini,Bus,Driver,Overturning,0,0,minor
+DEL-ACC-00633,2024-03-22,morning,Rohini,Two-Wheeler,Passenger,Overturning,0,2,serious
+DEL-ACC-00634,2024-03-22,afternoon,Janakpuri,Auto Rickshaw,Driver,Hit and Run,0,2,serious
+DEL-ACC-00635,2024-03-22,evening,Greater Kailash,Taxi,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00636,2024-03-22,evening,Greater Kailash,Bus,Passenger,Rear-end Collision,1,1,fatal
+DEL-ACC-00637,2024-03-22,night,Hauz Khas,Two-Wheeler,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-00638,2024-03-23,morning,Greater Kailash,Bus,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00639,2024-03-23,afternoon,Mayur Vihar,E-Rickshaw,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00640,2024-03-23,evening,Patparganj,Private Car,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-00641,2024-03-23,evening,Patparganj,E-Rickshaw,Driver,Hit and Run,0,1,moderate
+DEL-ACC-00642,2024-03-23,night,Okhla,Bus,Pedestrian,Side-swipe,1,1,minor
+DEL-ACC-00643,2024-03-24,morning,Saket,Two-Wheeler,Cyclist,Skidding,0,0,minor
+DEL-ACC-00644,2024-03-24,morning,Saket,Two-Wheeler,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00645,2024-03-24,morning,Saket,Auto Rickshaw,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00646,2024-03-24,afternoon,Saket,Private Car,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00647,2024-03-24,afternoon,Saket,Truck,Passenger,Side-swipe,1,2,minor
+DEL-ACC-00648,2024-03-24,evening,Patparganj,Private Car,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00649,2024-03-24,evening,Patparganj,Auto Rickshaw,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00650,2024-03-24,evening,Patparganj,Private Car,Two-Wheeler Rider,Overturning,0,2,serious
+DEL-ACC-00651,2024-03-24,evening,Patparganj,Truck,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-00652,2024-03-24,night,Vikas Puri,Two-Wheeler,Pedestrian,Rear-end Collision,1,2,fatal
+DEL-ACC-00653,2024-03-24,night,Vikas Puri,E-Rickshaw,Driver,Skidding,0,-5,minor
+DEL-ACC-00654,2024-03-24,night,Vikas Puri,Private Car,Two-Wheeler Rider,Head-on Collision,0,-5,moderate
+DEL-ACC-00655,2024-03-25,morning,Rajouri Garden,E-Rickshaw,Driver,Side-swipe,0,2,serious
+DEL-ACC-00656,2024-03-25,morning,Rajouri Garden,Private Car,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00657,2024-03-25,afternoon,Karol Bagh,Private Car,Cyclist,Skidding,0,2,serious
+DEL-ACC-00658,2024-03-25,evening,Lajpat Nagar,Two-Wheeler,Two-Wheeler Rider,Side-swipe,0,1,moderate
+DEL-ACC-00659,2024-03-25,evening,Lajpat Nagar,Auto Rickshaw,Passenger,Rear-end Collision,0,0,minor
+DEL-ACC-00660,2024-03-25,night,Okhla,Truck,Cyclist,Hit and Run,0,1,moderate
+DEL-ACC-00661,2024-03-26,morning,Chandni Chowk,Taxi,Cyclist,Skidding,0,2,serious
+DEL-ACC-00662,2024-03-26,afternoon,Connaught Place,E-Rickshaw,Pedestrian,Side-swipe,0,-5,serious
+DEL-ACC-00663,2024-03-26,evening,Rohini,E-Rickshaw,Cyclist,Hit and Run,0,1,moderate
+DEL-ACC-00664,2024-03-26,night,Janakpuri,Bus,Driver,Side-swipe,0,0,minor
+DEL-ACC-00665,2024-03-27,morning,Mayur Vihar,Private Car,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-00666,2024-03-27,afternoon,Mayur Vihar,Private Car,Passenger,Hit and Run,0,2,serious
+DEL-ACC-00667,2024-03-27,evening,Connaught Place,Bus,Cyclist,Overturning,0,1,moderate
+DEL-ACC-00668,2024-03-27,evening,Connaught Place,Private Car,Passenger,Side-swipe,0,2,serious
+DEL-ACC-00669,2024-03-27,night,Pitampura,car,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-00670,2024-03-28,morning,Dwarka,E-Rickshaw,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00671,2024-03-28,afternoon,Lajpat Nagar,Truck,Passenger,Head-on Collision,0,2,serious
+DEL-ACC-00672,2024-03-28,evening,Paschim Vihar,Bus,Pedestrian,Side-swipe,2,3,minor
+DEL-ACC-00673,2024-03-28,evening,Paschim Vihar,Auto Rickshaw,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00674,2024-03-28,night,Rajouri Garden,Taxi,Pedestrian,Skidding,1,-5,fatal
+DEL-ACC-00675,2024-03-29,morning,Okhla,Truck,Cyclist,Side-swipe,0,0,minor
+DEL-ACC-00676,2024-03-29,morning,Okhla,Two-Wheeler,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00677,2024-03-29,morning,Okhla,Bus,Driver,Skidding,0,0,minor
+DEL-ACC-00678,2024-03-29,afternoon,Shahdara,E-Rickshaw,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00679,2024-03-29,afternoon,Shahdara,Taxi,Cyclist,Overturning,0,2,serious
+DEL-ACC-00680,2024-03-29,evening,Janakpuri,Auto Rickshaw,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00681,2024-03-29,evening,Janakpuri,Taxi,Passenger,Skidding,0,0,minor
+DEL-ACC-00682,2024-03-29,evening,Janakpuri,Two-Wheeler,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-00683,2024-03-29,evening,Janakpuri,Truck,Passenger,Skidding,0,1,moderate
+DEL-ACC-00684,2024-03-29,night,Rajouri Garden,Private Car,Driver,Skidding,2,2,fatal
+DEL-ACC-00685,2024-03-29,night,Rajouri Garden,Bus,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-00686,2024-03-30,morning,Hauz Khas,Auto Rickshaw,Passenger,Skidding,0,2,serious
+DEL-ACC-00687,2024-03-30,morning,Hauz Khas,E-Rickshaw,Driver,Overturning,0,2,serious
+DEL-ACC-00688,2024-03-30,morning,Hauz Khas,Private Car,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00689,2024-03-30,afternoon,Paschim Vihar,Taxi,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00690,2024-03-30,afternoon,Paschim Vihar,Private Car,Cyclist,Skidding,0,2,serious
+DEL-ACC-00691,2024-03-30,evening,Model Town,Truck,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00692,2024-03-30,evening,Model Town,Two-Wheeler,Driver,Side-swipe,0,1,moderate
+DEL-ACC-00693,2024-03-30,evening,Model Town,Private Car,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-00694,2024-03-30,evening,Model Town,E-Rickshaw,Cyclist,Side-swipe,0,1,moderate
+DEL-ACC-00695,2024-03-30,night,Karol Bagh,E-Rickshaw,Two-Wheeler Rider,Skidding,0,-5,minor
+DEL-ACC-00696,2024-03-30,night,Karol Bagh,Truck,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00697,2024-03-31,morning,Patparganj,Private Car,Cyclist,Hit and Run,0,1,moderate
+DEL-ACC-00698,2024-03-31,afternoon,Vikas Puri,Truck,Two-Wheeler Rider,Hit and Run,2,1,fatal
+DEL-ACC-00699,2024-03-31,evening,Patparganj,Auto Rickshaw,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-00700,2024-03-31,evening,Patparganj,Bus,Passenger,Skidding,0,1,moderate
+DEL-ACC-00701,2024-03-31,night,Connaught Place,E-Rickshaw,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00702,2024-04-01,morning,Vasant Kunj,Truck,Driver,Hit and Run,0,0,minor
+DEL-ACC-00703,2024-04-01,afternoon,Mayur Vihar,Two-Wheeler,Two-Wheeler Rider,Overturning,0,-5,minor
+DEL-ACC-00704,2024-04-01,evening,Rohini,Private Car,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00705,2024-04-01,evening,Rohini,Private Car,Passenger,Skidding,0,1,moderate
+DEL-ACC-00706,2024-04-01,night,Rohini,Private Car,Two-Wheeler Rider,Head-on Collision,0,2,serious
+DEL-ACC-00707,2024-04-02,morning,Okhla,Taxi,Cyclist,Overturning,0,2,serious
+DEL-ACC-00708,2024-04-02,morning,Okhla,Truck,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-00709,2024-04-02,afternoon,Saket,Truck,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-00710,2024-04-02,evening,Hauz Khas,E-Rickshaw_err,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-00711,2024-04-02,evening,Hauz Khas,Taxi_err,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00712,2024-04-02,night,Janakpuri,Bus,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00713,2024-04-03,morning,Paschim Vihar,Auto Rickshaw,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00714,2024-04-03,morning,Paschim Vihar,Two-Wheeler,Passenger,Skidding,0,0,minor
+DEL-ACC-00715,2024-04-03,afternoon,Rohini,Two-Wheeler,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00716,2024-04-03,evening,Hauz Khas,Two-Wheeler,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-00717,2024-04-03,evening,Hauz Khas,Bus,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-00718,2024-04-03,night,Pitampura,Truck,Driver,Overturning,0,1,moderate
+DEL-ACC-00719,2024-04-04,morning,Connaught Place,Private Car,Pedestrian,Overturning,0,2,serious
+DEL-ACC-00720,2024-04-04,afternoon,Shahdara,Taxi,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00721,2024-04-04,evening,Mayur Vihar,Truck,Passenger,Skidding,0,2,serious
+DEL-ACC-00722,2024-04-04,evening,Mayur Vihar,Bus,Driver,Overturning,1,2,fatal
+DEL-ACC-00723,2024-04-04,night,Hauz Khas,Truck,Two-Wheeler Rider,Hit and Run,0,2,serious
+DEL-ACC-00724,2024-04-05,morning,Patparganj,Taxi,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-00725,2024-04-05,afternoon,Connaught Place,Private Car,Passenger,Skidding,0,0,minor
+DEL-ACC-00726,2024-04-05,evening,Greater Kailash,Two-Wheeler,Two-Wheeler Rider,Hit and Run,0,0,minor
+DEL-ACC-00727,2024-04-05,evening,Greater Kailash,Auto Rickshaw,Passenger,Skidding,0,1,moderate
+DEL-ACC-00728,2024-04-05,night,Connaught Place,Bus,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-00729,2024-04-06,morning,Okhla,Bus,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-00730,2024-04-06,afternoon,Vikas Puri,Two-Wheeler,Driver,Skidding,0,2,serious
+DEL-ACC-00731,2024-04-06,evening,Greater Kailash,Auto Rickshaw,Cyclist,Skidding,0,-5,moderate
+DEL-ACC-00732,2024-04-06,night,Rajouri Garden,Taxi,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00733,2024-04-07,morning,Connaught Place,Truck,Cyclist,Side-swipe,0,2,serious
+DEL-ACC-00734,2024-04-07,afternoon,Mayur Vihar,Taxi,Driver,Skidding,0,2,serious
+DEL-ACC-00735,2024-04-07,evening,Hauz Khas,E-Rickshaw,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00736,2024-04-07,evening,Hauz Khas,Bus,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-00737,2024-04-07,night,Hauz Khas,Bus,Passenger,Overturning,2,3,fatal
+DEL-ACC-00738,2024-04-08,morning,Pitampura,Private Car,Cyclist,Skidding,0,0,minor
+DEL-ACC-00739,2024-04-08,morning,Pitampura,Taxi,Passenger,Skidding,0,1,moderate
+DEL-ACC-00740,2024-04-08,afternoon,Dwarka,Two-Wheeler,Driver,Side-swipe,0,1,moderate
+DEL-ACC-00741,2024-04-08,evening,Rohini,Auto Rickshaw,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00742,2024-04-08,evening,Rohini,Bus,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-00743,2024-04-08,night,Connaught Place,E-Rickshaw,Two-Wheeler Rider,Rear-end Collision,1,2,fatal
+DEL-ACC-00744,2024-04-09,morning,Karol Bagh,Bus,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-00745,2024-04-09,morning,Karol Bagh,Taxi,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00746,2024-04-09,afternoon,Connaught Place,Taxi,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00747,2024-04-09,evening,Dwarka,Private Car,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-00748,2024-04-09,evening,Dwarka,Taxi,Pedestrian,Side-swipe,0,-5,minor
+DEL-ACC-00749,2024-04-09,night,Saket,Private Car,Cyclist,Side-swipe,0,0,minor
+DEL-ACC-00750,2024-04-10,morning,Rajouri Garden,Bus,Two-Wheeler Rider,Side-swipe,0,1,moderate
+DEL-ACC-00751,2024-04-10,morning,Rajouri Garden,Private Car,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00752,2024-04-10,afternoon,Karol Bagh,E-Rickshaw,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-00753,2024-04-10,evening,Patparganj,Private Car,Two-Wheeler Rider,Rear-end Collision,0,2,serious
+DEL-ACC-00754,2024-04-10,evening,Patparganj,Two-Wheeler,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00755,2024-04-10,night,Rohini,Auto Rickshaw,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-00756,2024-04-11,morning,Connaught Place,Two-Wheeler,Pedestrian,Hit and Run,0,1,moderate
+DEL-ACC-00757,2024-04-11,afternoon,Paschim Vihar,Truck,Passenger,Rear-end Collision,2,1,minor
+DEL-ACC-00758,2024-04-11,evening,Dwarka,Truck,Two-Wheeler Rider,Side-swipe,2,3,fatal
+DEL-ACC-00759,2024-04-11,evening,Dwarka,Truck,Two-Wheeler Rider,Overturning,2,3,fatal
+DEL-ACC-00760,2024-04-11,night,Hauz Khas,Bus,Passenger,Skidding,0,0,minor
+DEL-ACC-00761,2024-04-12,morning,Hauz Khas,Auto Rickshaw,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-00762,2024-04-12,morning,Hauz Khas,Auto Rickshaw,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-00763,2024-04-12,afternoon,Saket,Bus,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-00764,2024-04-12,evening,Vikas Puri,BUSS,Pedestrian,Skidding,1,1,fatal
+DEL-ACC-00765,2024-04-12,evening,Vikas Puri,Bus,Two-Wheeler Rider,Skidding,1,1,fatal
+DEL-ACC-00766,2024-04-12,night,Rajouri Garden,Two-Wheeler,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-00767,2024-04-13,morning,Mayur Vihar,Truck,Cyclist,Head-on Collision,2,1,minor
+DEL-ACC-00768,2024-04-13,morning,Mayur Vihar,Private Car,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00769,2024-04-13,morning,Mayur Vihar,Bus,Driver,Skidding,0,2,serious
+DEL-ACC-00770,2024-04-13,morning,Mayur Vihar,E-Rickshaw,Cyclist,Skidding,0,2,serious
+DEL-ACC-00771,2024-04-13,afternoon,Model Town,E-Rickshaw,Driver,Hit and Run,0,2,serious
+DEL-ACC-00772,2024-04-13,afternoon,Model Town,E-Rickshaw,Passenger,Skidding,0,0,minor
+DEL-ACC-00773,2024-04-13,afternoon,Model Town,Bus,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00774,2024-04-13,evening,Shahdara,Taxi,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00775,2024-04-13,evening,Shahdara,E-Rickshaw,Cyclist,Side-swipe,0,1,moderate
+DEL-ACC-00776,2024-04-13,evening,Shahdara,E-Rickshaw,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00777,2024-04-13,night,Rohini,Auto Rickshaw,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00778,2024-04-13,night,Rohini,Truck,Driver,Overturning,1,1,minor
+DEL-ACC-00779,2024-04-14,morning,Rohini,Two-Wheeler,Cyclist,Skidding,0,2,serious
+DEL-ACC-00780,2024-04-14,morning,Rohini,Two-Wheeler,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00781,2024-04-14,morning,Rohini,Auto Rickshaw,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-00782,2024-04-14,morning,Rohini,E-Rickshaw,Passenger,Overturning,0,0,minor
+DEL-ACC-00783,2024-04-14,afternoon,Patparganj,Auto Rickshaw,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-00784,2024-04-14,afternoon,Patparganj,E-Rickshaw,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00785,2024-04-14,evening,Chandni Chowk,Auto Rickshaw,Passenger,Skidding,0,1,moderate
+DEL-ACC-00786,2024-04-14,evening,Chandni Chowk,Auto Rickshaw,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00787,2024-04-14,evening,Chandni Chowk,Private Car,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00788,2024-04-14,night,Connaught Place,Auto Rickshaw,Cyclist,Skidding,0,0,minor
+DEL-ACC-00789,2024-04-14,night,Connaught Place,E-Rickshaw,Passenger,Side-swipe,0,2,serious
+DEL-ACC-00790,2024-04-15,morning,Mayur Vihar,Bus,Driver,Hit and Run,2,1,fatal
+DEL-ACC-00791,2024-04-15,afternoon,Shahdara,Two-Wheeler,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-00792,2024-04-15,evening,Rohini,Two-Wheeler,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00793,2024-04-15,evening,Rohini,Truck,Cyclist,Hit and Run,2,3,fatal
+DEL-ACC-00794,2024-04-15,night,Rohini,Private Car,Pedestrian,Head-on Collision,0,0,minor
+DEL-ACC-00795,2024-04-16,morning,Janakpuri,Taxi_err,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00796,2024-04-16,afternoon,Karol Bagh,Two-Wheeler,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00797,2024-04-16,evening,Chandni Chowk,Truck,Cyclist,Overturning,0,0,minor
+DEL-ACC-00798,2024-04-16,evening,Chandni Chowk,Private Car,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00799,2024-04-16,night,Mayur Vihar,Private Car,Two-Wheeler Rider,Hit and Run,0,1,moderate
+DEL-ACC-00800,2024-04-17,morning,Paschim Vihar,Private Car,Two-Wheeler Rider,Head-on Collision,0,2,serious
+DEL-ACC-00801,2024-04-17,morning,Paschim Vihar,Two-Wheeler,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00802,2024-04-17,morning,Paschim Vihar,Two-Wheeler,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-00803,2024-04-17,afternoon,Mayur Vihar,Truck,Driver,Overturning,0,2,serious
+DEL-ACC-00804,2024-04-17,afternoon,Mayur Vihar,BUSS,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-00805,2024-04-17,evening,Greater Kailash,E-Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00806,2024-04-17,evening,Greater Kailash,Bus,Two-Wheeler Rider,Rear-end Collision,0,2,serious
+DEL-ACC-00807,2024-04-17,evening,Greater Kailash,Auto Rickshaw,Pedestrian,Side-swipe,0,0,minor
+DEL-ACC-00808,2024-04-17,night,Saket,Truck,Passenger,Head-on Collision,1,1,fatal
+DEL-ACC-00809,2024-04-17,night,Saket,Taxi,Passenger,Head-on Collision,2,1,fatal
+DEL-ACC-00810,2024-04-18,morning,Patparganj,Auto Rickshaw,Driver,Side-swipe,0,2,serious
+DEL-ACC-00811,2024-04-18,morning,Patparganj,Auto Rickshaw,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00812,2024-04-18,afternoon,Model Town,Taxi,Pedestrian,Overturning,0,0,minor
+DEL-ACC-00813,2024-04-18,evening,Shahdara,Truck,Driver,Side-swipe,0,2,serious
+DEL-ACC-00814,2024-04-18,evening,Shahdara,Two-Wheeler,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00815,2024-04-18,night,Vikas Puri,Bus,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00816,2024-04-19,morning,Janakpuri,Truck,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00817,2024-04-19,morning,Janakpuri,Taxi,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00818,2024-04-19,afternoon,Karol Bagh,Two-Wheeler,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-00819,2024-04-19,evening,Saket,Private Car,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00820,2024-04-19,evening,Saket,Truck,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00821,2024-04-19,night,Patparganj,Two-Wheeler,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-00822,2024-04-20,morning,Vasant Kunj,Auto Rickshaw,Pedestrian,Hit and Run,0,0,minor
+DEL-ACC-00823,2024-04-20,afternoon,Pitampura,Taxi,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00824,2024-04-20,evening,Dwarka,E-Rickshaw,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-00825,2024-04-20,evening,Dwarka,Taxi,Cyclist,Skidding,0,0,minor
+DEL-ACC-00826,2024-04-20,night,Model Town,Auto Rickshaw,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-00827,2024-04-21,morning,Paschim Vihar,Private Car,Driver,Overturning,0,1,moderate
+DEL-ACC-00828,2024-04-21,morning,Paschim Vihar,Auto Rickshaw,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-00829,2024-04-21,afternoon,Chandni Chowk,Bus,Passenger,Rear-end Collision,2,1,fatal
+DEL-ACC-00830,2024-04-21,evening,Dwarka,Auto Rickshaw,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00831,2024-04-21,night,Dwarka,Auto Rickshaw,Two-Wheeler Rider,Side-swipe,0,1,moderate
+DEL-ACC-00832,2024-04-22,morning,Karol Bagh,Truck,Pedestrian,Head-on Collision,1,2,fatal
+DEL-ACC-00833,2024-04-22,afternoon,Connaught Place,Private Car,Passenger,Skidding,0,0,minor
+DEL-ACC-00834,2024-04-22,evening,Vasant Kunj,E-Rickshaw,Driver,Side-swipe,0,0,minor
+DEL-ACC-00835,2024-04-22,evening,Vasant Kunj,Two-Wheeler,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00836,2024-04-22,night,Shahdara,E-Rickshaw,Two-Wheeler Rider,Hit and Run,0,0,minor
+DEL-ACC-00837,2024-04-23,morning,Vikas Puri,Two-Wheeler,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-00838,2024-04-23,morning,Vikas Puri,Bus,Driver,Skidding,0,0,minor
+DEL-ACC-00839,2024-04-23,morning,Vikas Puri,Private Car,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00840,2024-04-23,afternoon,Shahdara,Auto Rickshaw,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-00841,2024-04-23,afternoon,Shahdara,Truck,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00842,2024-04-23,afternoon,Shahdara,Private Car,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-00843,2024-04-23,evening,Hauz Khas,Bus,Two-Wheeler Rider,Skidding,0,0,minor
+DEL-ACC-00844,2024-04-23,evening,Hauz Khas,Bus,Passenger,Skidding,0,0,minor
+DEL-ACC-00845,2024-04-23,evening,Hauz Khas,Two-Wheeler,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00846,2024-04-23,night,Dwarka,E-Rickshaw,Cyclist,Skidding,0,2,serious
+DEL-ACC-00847,2024-04-23,night,Dwarka,Bus,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00848,2024-04-23,night,Dwarka,E-Rickshaw,Pedestrian,Head-on Collision,1,3,fatal
+DEL-ACC-00849,2024-04-24,morning,Model Town,Truck,Pedestrian,Hit and Run,0,0,minor
+DEL-ACC-00850,2024-04-24,morning,Model Town,Bus,Passenger,Hit and Run,1,1,fatal
+DEL-ACC-00851,2024-04-24,afternoon,Vikas Puri,Private Car,Two-Wheeler Rider,Rear-end Collision,0,2,serious
+DEL-ACC-00852,2024-04-24,evening,Pitampura,Taxi,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00853,2024-04-24,evening,Pitampura,Private Car,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-00854,2024-04-24,night,Connaught Place,Bus,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00855,2024-04-25,morning,Mayur Vihar,Auto Rickshaw,Driver,Skidding,0,1,moderate
+DEL-ACC-00856,2024-04-25,afternoon,Vikas Puri,Private Car,Cyclist,Side-swipe,0,2,serious
+DEL-ACC-00857,2024-04-25,evening,Paschim Vihar,Truck,Pedestrian,Skidding,1,2,fatal
+DEL-ACC-00858,2024-04-25,evening,Paschim Vihar,Private Car,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00859,2024-04-25,night,Shahdara,Taxi,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-00860,2024-04-26,morning,Vasant Kunj,Bus,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00861,2024-04-26,morning,Vasant Kunj,Truck,Cyclist,Skidding,0,2,serious
+DEL-ACC-00862,2024-04-26,morning,Vasant Kunj,Taxi,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00863,2024-04-26,afternoon,Vikas Puri,Taxi,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-00864,2024-04-26,afternoon,Vikas Puri,Two-Wheeler,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00865,2024-04-26,afternoon,Vikas Puri,Private Car,Cyclist,Skidding,0,0,minor
+DEL-ACC-00866,2024-04-26,evening,Vikas Puri,Auto Rickshaw,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00867,2024-04-26,evening,Vikas Puri,Two-Wheeler,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00868,2024-04-26,evening,Vikas Puri,Bus,Passenger,Skidding,0,0,minor
+DEL-ACC-00869,2024-04-26,night,Rajouri Garden,Taxi,Cyclist,Skidding,2,1,fatal
+DEL-ACC-00870,2024-04-26,night,Rajouri Garden,Private Car,Passenger,Side-swipe,0,0,minor
+DEL-ACC-00871,2024-04-27,morning,Hauz Khas,E-Rickshaw,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00872,2024-04-27,afternoon,Paschim Vihar,Taxi,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00873,2024-04-27,evening,Patparganj,Private Car,Driver,Overturning,0,0,minor
+DEL-ACC-00874,2024-04-27,night,Vikas Puri,Truck,Pedestrian,Hit and Run,2,3,fatal
+DEL-ACC-00875,2024-04-28,morning,Dwarka,Bus,Driver,Head-on Collision,2,2,fatal
+DEL-ACC-00876,2024-04-28,morning,Dwarka,Bus,Cyclist,Skidding,1,3,fatal
+DEL-ACC-00877,2024-04-28,afternoon,Mayur Vihar,Bus,Passenger,Hit and Run,0,2,serious
+DEL-ACC-00878,2024-04-28,evening,Vasant Kunj,Truck_err,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00879,2024-04-28,night,Patparganj,Bus,Two-Wheeler Rider,Hit and Run,0,0,minor
+DEL-ACC-00880,2024-04-29,morning,Mayur Vihar,Taxi,Passenger,Rear-end Collision,0,0,minor
+DEL-ACC-00881,2024-04-29,afternoon,Vasant Kunj,Private Car,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-00882,2024-04-29,evening,Pitampura,Auto Rickshaw,Passenger,Skidding,0,1,moderate
+DEL-ACC-00883,2024-04-29,night,Greater Kailash,Auto Rickshaw,Pedestrian,Rear-end Collision,1,2,minor
+DEL-ACC-00884,2024-04-30,morning,Rajouri Garden,2-wheeler,Passenger,Overturning,0,0,minor
+DEL-ACC-00885,2024-04-30,afternoon,Patparganj,E-Rickshaw_err,Driver,Head-on Collision,0,0,minor
+DEL-ACC-00886,2024-04-30,evening,Okhla,Taxi,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-00887,2024-04-30,evening,Okhla,Two-Wheeler,Driver,Side-swipe,0,2,serious
+DEL-ACC-00888,2024-04-30,night,Hauz Khas,Bus,Driver,Hit and Run,0,1,moderate
+DEL-ACC-00889,2024-05-01,morning,Connaught Place,Two-Wheeler,Pedestrian,Overturning,0,2,serious
+DEL-ACC-00890,2024-05-01,morning,Connaught Place,Truck,Two-Wheeler Rider,Overturning,2,3,fatal
+DEL-ACC-00891,2024-05-01,afternoon,Shahdara,E-Rickshaw,Pedestrian,Hit and Run,0,1,moderate
+DEL-ACC-00892,2024-05-01,evening,Mayur Vihar,Auto Rickshaw,Passenger,Overturning,0,2,serious
+DEL-ACC-00893,2024-05-01,evening,Mayur Vihar,Private Car,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00894,2024-05-01,night,Rajouri Garden,Taxi,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-00895,2024-05-02,morning,Dwarka,Bus,Passenger,Overturning,0,0,minor
+DEL-ACC-00896,2024-05-02,morning,Dwarka,Two-Wheeler,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00897,2024-05-02,afternoon,Hauz Khas,Private Car,Driver,Head-on Collision,0,2,serious
+DEL-ACC-00898,2024-05-02,evening,Pitampura,E-Rickshaw,Driver,Skidding,0,0,minor
+DEL-ACC-00899,2024-05-02,evening,Pitampura,Bus,Cyclist,Skidding,0,2,serious
+DEL-ACC-00900,2024-05-02,night,Paschim Vihar,Taxi,Two-Wheeler Rider,Overturning,1,1,fatal
+DEL-ACC-00901,2024-05-03,morning,Karol Bagh,Truck,Pedestrian,Rear-end Collision,1,3,fatal
+DEL-ACC-00902,2024-05-03,morning,Karol Bagh,Truck,Cyclist,Side-swipe,0,0,minor
+DEL-ACC-00903,2024-05-03,afternoon,Pitampura,Two-Wheeler,Cyclist,Skidding,0,2,serious
+DEL-ACC-00904,2024-05-03,afternoon,Pitampura,E-Rickshaw,Passenger,Skidding,0,2,serious
+DEL-ACC-00905,2024-05-03,evening,Greater Kailash,Taxi,Cyclist,Hit and Run,0,-5,minor
+DEL-ACC-00906,2024-05-03,evening,Greater Kailash,Two-Wheeler,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-00907,2024-05-03,evening,Greater Kailash,Private Car,Pedestrian,Side-swipe,0,-5,minor
+DEL-ACC-00908,2024-05-03,night,Connaught Place,Auto Rickshaw,Passenger,Hit and Run,0,2,serious
+DEL-ACC-00909,2024-05-03,night,Connaught Place,Two-Wheeler,Cyclist,Overturning,0,0,minor
+DEL-ACC-00910,2024-05-04,morning,Shahdara,Two-Wheeler,Driver,Skidding,0,2,serious
+DEL-ACC-00911,2024-05-04,afternoon,Chandni Chowk,E-Rickshaw,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-00912,2024-05-04,evening,Chandni Chowk,Two-Wheeler,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-00913,2024-05-04,night,Model Town,Private Car,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-00914,2024-05-05,morning,Okhla,Truck,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-00915,2024-05-05,afternoon,Mayur Vihar,Auto Rickshaw,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00916,2024-05-05,evening,Vasant Kunj,Auto Rickshaw,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-00917,2024-05-05,night,Karol Bagh,Taxi,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-00918,2024-05-06,morning,Mayur Vihar,Bus,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-00919,2024-05-06,afternoon,Vikas Puri,Truck,Cyclist,Skidding,0,0,minor
+DEL-ACC-00920,2024-05-06,evening,Lajpat Nagar,E-Rickshaw,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-00921,2024-05-06,evening,Lajpat Nagar,Two-Wheeler,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00922,2024-05-06,night,Pitampura,car,Passenger,Rear-end Collision,2,3,fatal
+DEL-ACC-00923,2024-05-07,morning,Greater Kailash,Taxi,Cyclist,Skidding,0,2,serious
+DEL-ACC-00924,2024-05-07,morning,Greater Kailash,Private Car,Two-Wheeler Rider,Rear-end Collision,0,2,serious
+DEL-ACC-00925,2024-05-07,morning,Greater Kailash,Truck,Driver,Head-on Collision,0,2,serious
+DEL-ACC-00926,2024-05-07,afternoon,Paschim Vihar,Private Car,Passenger,Skidding,0,0,minor
+DEL-ACC-00927,2024-05-07,afternoon,Paschim Vihar,E-Rickshaw,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00928,2024-05-07,evening,Janakpuri,Two-Wheeler,Driver,Hit and Run,0,2,serious
+DEL-ACC-00929,2024-05-07,evening,Janakpuri,Bus,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00930,2024-05-07,evening,Janakpuri,Truck,Cyclist,Overturning,0,2,serious
+DEL-ACC-00931,2024-05-07,night,Karol Bagh,Bus,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-00932,2024-05-07,night,Karol Bagh,Private Car,Pedestrian,Skidding,1,2,fatal
+DEL-ACC-00933,2024-05-08,morning,Vasant Kunj,Taxi,Passenger,Hit and Run,0,0,minor
+DEL-ACC-00934,2024-05-08,morning,Vasant Kunj,E-Rickshaw,Passenger,Rear-end Collision,0,1,moderate
+DEL-ACC-00935,2024-05-08,afternoon,Model Town,E-Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-00936,2024-05-08,evening,Saket,Private Car,Passenger,Skidding,0,2,serious
+DEL-ACC-00937,2024-05-08,evening,Saket,Taxi,Cyclist,Skidding,0,2,serious
+DEL-ACC-00938,2024-05-08,night,Connaught Place,Private Car,Driver,Side-swipe,0,2,serious
+DEL-ACC-00939,2024-05-09,morning,Connaught Place,Bus,Two-Wheeler Rider,Hit and Run,0,2,serious
+DEL-ACC-00940,2024-05-09,morning,Connaught Place,Auto Rickshaw,Driver,Hit and Run,0,2,serious
+DEL-ACC-00941,2024-05-09,afternoon,Lajpat Nagar,Auto Rickshaw,Cyclist,Hit and Run,0,1,moderate
+DEL-ACC-00942,2024-05-09,evening,Patparganj,Private Car,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00943,2024-05-09,evening,Patparganj,Taxi,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00944,2024-05-09,night,Janakpuri,Truck,Two-Wheeler Rider,Rear-end Collision,2,2,fatal
+DEL-ACC-00945,2024-05-10,morning,Hauz Khas,Truck,Pedestrian,Head-on Collision,0,0,minor
+DEL-ACC-00946,2024-05-10,afternoon,Paschim Vihar,Auto Rickshaw,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-00947,2024-05-10,evening,Rohini,Two-Wheeler,Passenger,Skidding,0,2,serious
+DEL-ACC-00948,2024-05-10,evening,Rohini,Private Car,Driver,Head-on Collision,0,2,serious
+DEL-ACC-00949,2024-05-10,night,Rajouri Garden,Auto Rickshaw,Driver,Head-on Collision,0,2,serious
+DEL-ACC-00950,2024-05-11,morning,Vikas Puri,Private Car,Passenger,Skidding,0,2,serious
+DEL-ACC-00951,2024-05-11,morning,Vikas Puri,Two-Wheeler,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-00952,2024-05-11,morning,Vikas Puri,Bus,Driver,Skidding,0,2,serious
+DEL-ACC-00953,2024-05-11,morning,Vikas Puri,Truck,Driver,Overturning,0,1,moderate
+DEL-ACC-00954,2024-05-11,afternoon,Pitampura,Bus,Driver,Side-swipe,2,3,fatal
+DEL-ACC-00955,2024-05-11,afternoon,Pitampura,Bus,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-00956,2024-05-11,evening,Paschim Vihar,Bus,Pedestrian,Skidding,0,0,minor
+DEL-ACC-00957,2024-05-11,evening,Paschim Vihar,E-Rickshaw_err,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-00958,2024-05-11,evening,Paschim Vihar,Two-Wheeler,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00959,2024-05-11,evening,Paschim Vihar,2-wheeler,Cyclist,Skidding,0,1,moderate
+DEL-ACC-00960,2024-05-11,night,Dwarka,Bus,Two-Wheeler Rider,Skidding,2,2,minor
+DEL-ACC-00961,2024-05-11,night,Dwarka,E-Rickshaw,Driver,Skidding,0,1,moderate
+DEL-ACC-00962,2024-05-12,morning,Dwarka,E-Rickshaw,Passenger,Side-swipe,0,2,serious
+DEL-ACC-00963,2024-05-12,afternoon,Lajpat Nagar,Private Car,Driver,Rear-end Collision,0,0,minor
+DEL-ACC-00964,2024-05-12,evening,Patparganj,Taxi,Passenger,Overturning,0,0,minor
+DEL-ACC-00965,2024-05-12,night,Mayur Vihar,Truck,Cyclist,Side-swipe,2,3,minor
+DEL-ACC-00966,2024-05-13,morning,Pitampura,E-Rickshaw,Driver,Head-on Collision,0,2,serious
+DEL-ACC-00967,2024-05-13,morning,Pitampura,Truck,Pedestrian,Hit and Run,2,1,fatal
+DEL-ACC-00968,2024-05-13,afternoon,Karol Bagh,Private Car,Two-Wheeler Rider,Hit and Run,0,0,minor
+DEL-ACC-00969,2024-05-13,evening,Patparganj,Truck,Cyclist,Head-on Collision,2,1,fatal
+DEL-ACC-00970,2024-05-13,evening,Patparganj,E-Rickshaw,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-00971,2024-05-13,night,Pitampura,Taxi,Passenger,Overturning,2,2,fatal
+DEL-ACC-00972,2024-05-14,morning,Shahdara,Private Car,Cyclist,Side-swipe,0,0,minor
+DEL-ACC-00973,2024-05-14,morning,Shahdara,E-Rickshaw,Passenger,Rear-end Collision,0,0,minor
+DEL-ACC-00974,2024-05-14,afternoon,Paschim Vihar,Auto Rickshaw,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-00975,2024-05-14,evening,Paschim Vihar,Private Car,Cyclist,Overturning,0,1,moderate
+DEL-ACC-00976,2024-05-14,evening,Paschim Vihar,Private Car,Pedestrian,Side-swipe,0,-5,moderate
+DEL-ACC-00977,2024-05-14,night,Model Town,Bus,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-00978,2024-05-15,morning,Rajouri Garden,Truck,Driver,Overturning,0,0,minor
+DEL-ACC-00979,2024-05-15,morning,Rajouri Garden,Taxi,Cyclist,Overturning,0,0,minor
+DEL-ACC-00980,2024-05-15,afternoon,Janakpuri,Private Car,Two-Wheeler Rider,Hit and Run,0,1,moderate
+DEL-ACC-00981,2024-05-15,evening,Vasant Kunj,Auto Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-00982,2024-05-15,evening,Vasant Kunj,Private Car,Driver,Rear-end Collision,0,0,minor
+DEL-ACC-00983,2024-05-15,night,Pitampura,Bus,Pedestrian,Skidding,1,2,fatal
+DEL-ACC-00984,2024-05-16,morning,Rohini,Private Car,Passenger,Skidding,0,2,serious
+DEL-ACC-00985,2024-05-16,morning,Rohini,Two-Wheeler,Pedestrian,Skidding,0,2,serious
+DEL-ACC-00986,2024-05-16,afternoon,Shahdara,Taxi,Pedestrian,Head-on Collision,0,0,minor
+DEL-ACC-00987,2024-05-16,evening,Paschim Vihar,E-Rickshaw,Pedestrian,Head-on Collision,0,0,minor
+DEL-ACC-00988,2024-05-16,evening,Paschim Vihar,Two-Wheeler,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-00989,2024-05-16,night,Vikas Puri,Private Car,Cyclist,Side-swipe,0,0,minor
+DEL-ACC-00990,2024-05-17,morning,Rohini,Auto Rickshaw,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-00991,2024-05-17,afternoon,Lajpat Nagar,Two-Wheeler,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-00992,2024-05-17,evening,Lajpat Nagar,Auto Rickshaw,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-00993,2024-05-17,evening,Lajpat Nagar,Bus,Passenger,Hit and Run,1,2,fatal
+DEL-ACC-00994,2024-05-17,night,Mayur Vihar,Two-Wheeler,Cyclist,Rear-end Collision,1,1,fatal
+DEL-ACC-00995,2024-05-18,morning,Paschim Vihar,E-Rickshaw,Driver,Hit and Run,0,1,moderate
+DEL-ACC-00996,2024-05-18,afternoon,Paschim Vihar,Taxi,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-00997,2024-05-18,evening,Okhla,Two-Wheeler,Pedestrian,Overturning,0,0,minor
+DEL-ACC-00998,2024-05-18,evening,Okhla,Bus,Cyclist,Skidding,0,2,serious
+DEL-ACC-00999,2024-05-18,night,Hauz Khas,Taxi,Pedestrian,Rear-end Collision,1,2,fatal
+DEL-ACC-01000,2024-05-19,morning,Chandni Chowk,Truck,Driver,Skidding,0,2,serious
+DEL-ACC-01001,2024-05-19,afternoon,Connaught Place,Private Car,Passenger,Hit and Run,0,2,serious
+DEL-ACC-01002,2024-05-19,evening,Dwarka,E-Rickshaw,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-01003,2024-05-19,evening,Dwarka,Bus,Pedestrian,Hit and Run,0,1,moderate
+DEL-ACC-01004,2024-05-19,night,Shahdara,Auto Rickshaw,Driver,Side-swipe,0,1,moderate
+DEL-ACC-01005,2024-05-20,morning,Patparganj,Truck,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-01006,2024-05-20,morning,Patparganj,Truck,Passenger,Hit and Run,0,0,minor
+DEL-ACC-01007,2024-05-20,afternoon,Rajouri Garden,Truck,Two-Wheeler Rider,Rear-end Collision,2,3,fatal
+DEL-ACC-01008,2024-05-20,evening,Model Town,E-Rickshaw_err,Passenger,Hit and Run,0,0,minor
+DEL-ACC-01009,2024-05-20,evening,Model Town,Bus,Driver,Side-swipe,0,0,minor
+DEL-ACC-01010,2024-05-20,night,Okhla,Auto Rickshaw,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-01011,2024-05-21,morning,Vasant Kunj,Private Car,Two-Wheeler Rider,Rear-end Collision,0,2,serious
+DEL-ACC-01012,2024-05-21,afternoon,Vikas Puri,Auto Rickshaw,Cyclist,Head-on Collision,0,-5,minor
+DEL-ACC-01013,2024-05-21,evening,Greater Kailash,Taxi,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-01014,2024-05-21,evening,Greater Kailash,E-Rickshaw,Driver,Head-on Collision,0,2,serious
+DEL-ACC-01015,2024-05-21,night,Okhla,Taxi,Two-Wheeler Rider,Overturning,2,2,fatal
+DEL-ACC-01016,2024-05-22,morning,Rohini,Truck,Driver,Head-on Collision,1,2,fatal
+DEL-ACC-01017,2024-05-22,afternoon,Shahdara,Taxi,Passenger,Overturning,0,2,serious
+DEL-ACC-01018,2024-05-22,evening,Hauz Khas,Auto Rickshaw,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-01019,2024-05-22,evening,Hauz Khas,Truck,Pedestrian,Rear-end Collision,0,1,moderate
+DEL-ACC-01020,2024-05-22,night,Chandni Chowk,Private Car,Driver,Head-on Collision,0,2,serious
+DEL-ACC-01021,2024-05-23,morning,Mayur Vihar,Truck,Two-Wheeler Rider,Hit and Run,0,2,serious
+DEL-ACC-01022,2024-05-23,afternoon,Karol Bagh,E-Rickshaw,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-01023,2024-05-23,evening,Hauz Khas,Bus,Cyclist,Skidding,1,2,fatal
+DEL-ACC-01024,2024-05-23,night,Janakpuri,Bus,Two-Wheeler Rider,Side-swipe,0,0,minor
+DEL-ACC-01025,2024-05-24,morning,Lajpat Nagar,E-Rickshaw,Passenger,Skidding,0,1,moderate
+DEL-ACC-01026,2024-05-24,afternoon,Mayur Vihar,Auto Rickshaw,Driver,Hit and Run,0,2,serious
+DEL-ACC-01027,2024-05-24,evening,Janakpuri,Bus,Two-Wheeler Rider,Head-on Collision,0,2,serious
+DEL-ACC-01028,2024-05-24,evening,Janakpuri,E-Rickshaw,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-01029,2024-05-24,night,Dwarka,Auto Rickshaw,Cyclist,Rear-end Collision,1,3,fatal
+DEL-ACC-01030,2024-05-25,morning,Janakpuri,Auto Rickshaw,Pedestrian,Side-swipe,0,0,minor
+DEL-ACC-01031,2024-05-25,afternoon,Model Town,Two-Wheeler,Driver,Hit and Run,0,0,minor
+DEL-ACC-01032,2024-05-25,evening,Connaught Place,car,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-01033,2024-05-25,night,Vasant Kunj,Truck,Pedestrian,Head-on Collision,1,1,minor
+DEL-ACC-01034,2024-05-26,morning,Dwarka,E-Rickshaw,Driver,Hit and Run,0,0,minor
+DEL-ACC-01035,2024-05-26,afternoon,Vikas Puri,Truck,Cyclist,Skidding,0,1,moderate
+DEL-ACC-01036,2024-05-26,evening,Vasant Kunj,Taxi,Driver,Side-swipe,0,0,minor
+DEL-ACC-01037,2024-05-26,evening,Vasant Kunj,E-Rickshaw,Pedestrian,Hit and Run,0,-5,serious
+DEL-ACC-01038,2024-05-26,night,Rohini,Bus,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-01039,2024-05-27,morning,Rajouri Garden,Taxi,Pedestrian,Overturning,0,0,minor
+DEL-ACC-01040,2024-05-27,afternoon,Paschim Vihar,Truck,Pedestrian,Overturning,0,0,minor
+DEL-ACC-01041,2024-05-27,evening,Hauz Khas,Bus,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-01042,2024-05-27,evening,Hauz Khas,Auto Rickshaw,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-01043,2024-05-27,night,Paschim Vihar,Taxi,Pedestrian,Head-on Collision,2,2,minor
+DEL-ACC-01044,2024-05-28,morning,Greater Kailash,E-Rickshaw,Cyclist,Skidding,0,2,serious
+DEL-ACC-01045,2024-05-28,afternoon,Shahdara,Private Car,Pedestrian,Hit and Run,0,1,moderate
+DEL-ACC-01046,2024-05-28,evening,Lajpat Nagar,Bus,Two-Wheeler Rider,Side-swipe,1,1,fatal
+DEL-ACC-01047,2024-05-28,evening,Lajpat Nagar,Two-Wheeler,Driver,Skidding,0,2,serious
+DEL-ACC-01048,2024-05-28,night,Model Town,Bus,Passenger,Overturning,0,0,minor
+DEL-ACC-01049,2024-05-29,morning,Patparganj,Private Car,Pedestrian,Skidding,0,2,serious
+DEL-ACC-01050,2024-05-29,afternoon,Connaught Place,Auto Rickshaw,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-01051,2024-05-29,evening,Okhla,Bus,Driver,Rear-end Collision,0,0,minor
+DEL-ACC-01052,2024-05-29,evening,Okhla,Taxi,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-01053,2024-05-29,night,Saket,Two-Wheeler,Two-Wheeler Rider,Hit and Run,0,2,serious
+DEL-ACC-01054,2024-05-30,morning,Karol Bagh,Two-Wheeler,Driver,Head-on Collision,0,0,minor
+DEL-ACC-01055,2024-05-30,afternoon,Model Town,E-Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,2,serious
+DEL-ACC-01056,2024-05-30,evening,Paschim Vihar,Taxi,Passenger,Hit and Run,0,1,moderate
+DEL-ACC-01057,2024-05-30,evening,Paschim Vihar,Two-Wheeler,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-01058,2024-05-30,night,Connaught Place,Bus,Cyclist,Side-swipe,0,1,moderate
+DEL-ACC-01059,2024-05-31,morning,Rohini,Private Car,Cyclist,Overturning,0,0,minor
+DEL-ACC-01060,2024-05-31,morning,Rohini,Private Car,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-01061,2024-05-31,afternoon,Rohini,Auto Rickshaw,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-01062,2024-05-31,evening,Model Town,Truck,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-01063,2024-05-31,evening,Model Town,Auto Rickshaw,Driver,Hit and Run,0,1,moderate
+DEL-ACC-01064,2024-05-31,night,Okhla,Two-Wheeler,Passenger,Head-on Collision,1,2,fatal
+DEL-ACC-01065,2024-06-01,morning,Vikas Puri,car,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-01066,2024-06-01,afternoon,Chandni Chowk,Taxi,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-01067,2024-06-01,evening,Vikas Puri,Taxi,Cyclist,Hit and Run,0,2,serious
+DEL-ACC-01068,2024-06-01,evening,Vikas Puri,Private Car,Driver,Rear-end Collision,0,0,minor
+DEL-ACC-01069,2024-06-01,night,Paschim Vihar,Auto Rickshaw,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-01070,2024-06-02,morning,Rohini,Taxi,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-01071,2024-06-02,afternoon,Saket,Auto Rickshaw,Passenger,Head-on Collision,0,2,serious
+DEL-ACC-01072,2024-06-02,evening,Vasant Kunj,Truck,Passenger,Head-on Collision,2,3,fatal
+DEL-ACC-01073,2024-06-02,night,Shahdara,Bus,Passenger,Overturning,2,2,fatal
+DEL-ACC-01074,2024-06-03,morning,Rohini,Truck,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-01075,2024-06-03,afternoon,Hauz Khas,BUSS,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-01076,2024-06-03,evening,Lajpat Nagar,Two-Wheeler,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-01077,2024-06-03,evening,Lajpat Nagar,Bus,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-01078,2024-06-03,night,Vikas Puri,Auto Rickshaw,Pedestrian,Side-swipe,0,0,minor
+DEL-ACC-01079,2024-06-04,morning,Connaught Place,E-Rickshaw,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-01080,2024-06-04,morning,Connaught Place,Two-Wheeler,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-01081,2024-06-04,afternoon,Connaught Place,Taxi,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-01082,2024-06-04,evening,Lajpat Nagar,Two-Wheeler,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-01083,2024-06-04,evening,Lajpat Nagar,Private Car,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-01084,2024-06-04,night,Shahdara,E-Rickshaw,Pedestrian,Rear-end Collision,0,0,minor
+DEL-ACC-01085,2024-06-05,morning,Connaught Place,E-Rickshaw,Driver,Overturning,0,2,serious
+DEL-ACC-01086,2024-06-05,morning,Connaught Place,E-Rickshaw,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-01087,2024-06-05,afternoon,Connaught Place,Bus,Driver,Skidding,1,1,minor
+DEL-ACC-01088,2024-06-05,evening,Karol Bagh,Auto Rickshaw,Cyclist,Hit and Run,0,0,minor
+DEL-ACC-01089,2024-06-05,evening,Karol Bagh,Truck,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-01090,2024-06-05,night,Karol Bagh,Two-Wheeler,Passenger,Head-on Collision,1,3,minor
+DEL-ACC-01091,2024-06-06,morning,Patparganj,Two-Wheeler,Cyclist,Skidding,0,1,moderate
+DEL-ACC-01092,2024-06-06,morning,Patparganj,E-Rickshaw,Cyclist,Skidding,0,1,moderate
+DEL-ACC-01093,2024-06-06,morning,Patparganj,Taxi,Pedestrian,Skidding,0,0,minor
+DEL-ACC-01094,2024-06-06,afternoon,Vikas Puri,E-Rickshaw,Pedestrian,Skidding,0,0,minor
+DEL-ACC-01095,2024-06-06,afternoon,Vikas Puri,E-Rickshaw,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-01096,2024-06-06,afternoon,Vikas Puri,Private Car,Driver,Skidding,0,2,serious
+DEL-ACC-01097,2024-06-06,evening,Greater Kailash,Truck,Driver,Head-on Collision,0,0,minor
+DEL-ACC-01098,2024-06-06,evening,Greater Kailash,Two-Wheeler,Driver,Side-swipe,0,1,moderate
+DEL-ACC-01099,2024-06-06,evening,Greater Kailash,Auto Rickshaw,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-01100,2024-06-06,evening,Greater Kailash,Truck,Driver,Skidding,1,3,fatal
+DEL-ACC-01101,2024-06-06,night,Vasant Kunj,Taxi,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-01102,2024-06-06,night,Vasant Kunj,Auto Rickshaw,Cyclist,Skidding,0,0,minor
+DEL-ACC-01103,2024-06-07,morning,Greater Kailash,E-Rickshaw,Cyclist,Hit and Run,0,2,serious
+DEL-ACC-01104,2024-06-07,afternoon,Rohini,Auto Rickshaw,Two-Wheeler Rider,Overturning,0,2,serious
+DEL-ACC-01105,2024-06-07,evening,Patparganj,Truck,Pedestrian,Side-swipe,0,0,minor
+DEL-ACC-01106,2024-06-07,evening,Patparganj,Auto Rickshaw,Cyclist,Rear-end Collision,0,0,minor
+DEL-ACC-01107,2024-06-07,night,Paschim Vihar,Truck,Cyclist,Hit and Run,1,3,minor
+DEL-ACC-01108,2024-06-08,morning,Paschim Vihar,Auto Rickshaw,Passenger,Rear-end Collision,0,0,minor
+DEL-ACC-01109,2024-06-08,afternoon,Dwarka,Auto Rickshaw,Passenger,Head-on Collision,1,3,fatal
+DEL-ACC-01110,2024-06-08,evening,Rohini,E-Rickshaw,Passenger,Hit and Run,0,2,serious
+DEL-ACC-01111,2024-06-08,evening,Rohini,Taxi,Pedestrian,Side-swipe,0,2,serious
+DEL-ACC-01112,2024-06-08,night,Vikas Puri,Auto Rickshaw,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-01113,2024-06-09,morning,Janakpuri,E-Rickshaw,Cyclist,Skidding,0,2,serious
+DEL-ACC-01114,2024-06-09,morning,Janakpuri,Taxi,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-01115,2024-06-09,afternoon,Saket,Auto Rickshaw,Cyclist,Skidding,0,2,serious
+DEL-ACC-01116,2024-06-09,evening,Janakpuri,Two-Wheeler,Two-Wheeler Rider,Overturning,0,0,minor
+DEL-ACC-01117,2024-06-09,night,Pitampura,Taxi,Passenger,Side-swipe,1,2,minor
+DEL-ACC-01118,2024-06-10,morning,Saket,Truck,Driver,Head-on Collision,0,1,moderate
+DEL-ACC-01119,2024-06-10,morning,Saket,Auto Rickshaw,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-01120,2024-06-10,afternoon,Shahdara,Bus,Cyclist,Overturning,0,0,minor
+DEL-ACC-01121,2024-06-10,evening,Model Town,Private Car,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-01122,2024-06-10,evening,Model Town,Bus,Pedestrian,Hit and Run,0,0,minor
+DEL-ACC-01123,2024-06-10,night,Mayur Vihar,Bus,Pedestrian,Head-on Collision,1,2,fatal
+DEL-ACC-01124,2024-06-11,morning,Rohini,Private Car,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-01125,2024-06-11,morning,Rohini,Auto Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-01126,2024-06-11,afternoon,Mayur Vihar,Bus,Pedestrian,Skidding,1,1,fatal
+DEL-ACC-01127,2024-06-11,evening,Connaught Place,Private Car,Cyclist,Overturning,0,2,serious
+DEL-ACC-01128,2024-06-11,evening,Connaught Place,Two-Wheeler,Driver,Skidding,0,2,serious
+DEL-ACC-01129,2024-06-11,night,Vikas Puri,Taxi,Two-Wheeler Rider,Head-on Collision,0,0,minor
+DEL-ACC-01130,2024-06-12,morning,Hauz Khas,Truck,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-01131,2024-06-12,morning,Hauz Khas,Auto Rickshaw,Two-Wheeler Rider,Skidding,0,-5,moderate
+DEL-ACC-01132,2024-06-12,afternoon,Okhla,Taxi,Passenger,Hit and Run,0,0,minor
+DEL-ACC-01133,2024-06-12,evening,Okhla,Bus,Driver,Overturning,0,2,serious
+DEL-ACC-01134,2024-06-12,evening,Okhla,Auto Rickshaw,Cyclist,Skidding,0,0,minor
+DEL-ACC-01135,2024-06-12,night,Connaught Place,Truck,Cyclist,Skidding,0,0,minor
+DEL-ACC-01136,2024-06-13,morning,Greater Kailash,Truck,Pedestrian,Hit and Run,0,0,minor
+DEL-ACC-01137,2024-06-13,afternoon,Saket,Bus,Driver,Overturning,0,0,minor
+DEL-ACC-01138,2024-06-13,evening,Chandni Chowk,Two-Wheeler,Passenger,Rear-end Collision,0,0,minor
+DEL-ACC-01139,2024-06-13,evening,Chandni Chowk,Auto Rickshaw,Passenger,Skidding,0,2,serious
+DEL-ACC-01140,2024-06-13,night,Patparganj,Bus,Cyclist,Overturning,0,1,moderate
+DEL-ACC-01141,2024-06-14,morning,Pitampura,Private Car,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-01142,2024-06-14,morning,Pitampura,Truck,Driver,Hit and Run,0,1,moderate
+DEL-ACC-01143,2024-06-14,afternoon,Lajpat Nagar,Truck,Cyclist,Hit and Run,1,3,fatal
+DEL-ACC-01144,2024-06-14,evening,Saket,E-Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,0,minor
+DEL-ACC-01145,2024-06-14,evening,Saket,E-Rickshaw,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-01146,2024-06-14,night,Lajpat Nagar,Truck,Passenger,Overturning,0,2,serious
+DEL-ACC-01147,2024-06-15,morning,Model Town,Two-Wheeler,Passenger,Hit and Run,0,0,minor
+DEL-ACC-01148,2024-06-15,afternoon,Saket,Private Car,Driver,Hit and Run,0,1,moderate
+DEL-ACC-01149,2024-06-15,evening,Model Town,E-Rickshaw,Driver,Head-on Collision,0,2,serious
+DEL-ACC-01150,2024-06-15,evening,Model Town,Taxi,Pedestrian,Overturning,0,0,minor
+DEL-ACC-01151,2024-06-15,night,Okhla,Taxi,Driver,Side-swipe,1,2,minor
+DEL-ACC-01152,2024-06-16,morning,Patparganj,Truck,Passenger,Overturning,0,1,moderate
+DEL-ACC-01153,2024-06-16,afternoon,Saket,Two-Wheeler,Pedestrian,Overturning,0,1,moderate
+DEL-ACC-01154,2024-06-16,evening,Rajouri Garden,E-Rickshaw,Cyclist,Hit and Run,0,2,serious
+DEL-ACC-01155,2024-06-16,night,Lajpat Nagar,Auto Rickshaw,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-01156,2024-06-17,morning,Rohini,Two-Wheeler,Two-Wheeler Rider,Side-swipe,0,-5,serious
+DEL-ACC-01157,2024-06-17,morning,Rohini,E-Rickshaw,Passenger,Rear-end Collision,0,0,minor
+DEL-ACC-01158,2024-06-17,afternoon,Okhla,Two-Wheeler,Two-Wheeler Rider,Overturning,0,1,moderate
+DEL-ACC-01159,2024-06-17,evening,Karol Bagh,Private Car,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-01160,2024-06-17,evening,Karol Bagh,E-Rickshaw,Pedestrian,Rear-end Collision,0,2,serious
+DEL-ACC-01161,2024-06-17,night,Patparganj,Truck,Passenger,Head-on Collision,1,2,minor
+DEL-ACC-01162,2024-06-18,morning,Vikas Puri,Taxi,Passenger,Hit and Run,0,0,minor
+DEL-ACC-01163,2024-06-18,morning,Vikas Puri,Taxi,Cyclist,Overturning,0,1,moderate
+DEL-ACC-01164,2024-06-18,afternoon,Connaught Place,Private Car,Driver,Head-on Collision,0,2,serious
+DEL-ACC-01165,2024-06-18,evening,Dwarka,Taxi,Cyclist,Side-swipe,0,2,serious
+DEL-ACC-01166,2024-06-18,evening,Dwarka,Private Car,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-01167,2024-06-18,night,Karol Bagh,Two-Wheeler,Driver,Side-swipe,0,2,serious
+DEL-ACC-01168,2024-06-19,morning,Vikas Puri,Taxi,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-01169,2024-06-19,morning,Vikas Puri,Bus,Driver,Skidding,0,2,serious
+DEL-ACC-01170,2024-06-19,morning,Vikas Puri,E-Rickshaw,Pedestrian,Head-on Collision,0,0,minor
+DEL-ACC-01171,2024-06-19,afternoon,Karol Bagh,E-Rickshaw,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-01172,2024-06-19,afternoon,Karol Bagh,Truck,Driver,Head-on Collision,0,2,serious
+DEL-ACC-01173,2024-06-19,evening,Vikas Puri,Private Car,Pedestrian,Head-on Collision,0,2,serious
+DEL-ACC-01174,2024-06-19,evening,Vikas Puri,E-Rickshaw,Passenger,Hit and Run,0,2,serious
+DEL-ACC-01175,2024-06-19,evening,Vikas Puri,E-Rickshaw,Pedestrian,Side-swipe,0,-5,minor
+DEL-ACC-01176,2024-06-19,night,Rajouri Garden,Private Car,Driver,Head-on Collision,1,2,minor
+DEL-ACC-01177,2024-06-19,night,Rajouri Garden,Bus,Driver,Overturning,0,0,minor
+DEL-ACC-01178,2024-06-20,morning,Connaught Place,Auto Rickshaw,Two-Wheeler Rider,Overturning,0,2,serious
+DEL-ACC-01179,2024-06-20,morning,Connaught Place,Taxi,Pedestrian,Head-on Collision,0,0,minor
+DEL-ACC-01180,2024-06-20,afternoon,Saket,Two-Wheeler,Passenger,Head-on Collision,0,0,minor
+DEL-ACC-01181,2024-06-20,evening,Lajpat Nagar,Taxi,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-01182,2024-06-20,evening,Lajpat Nagar,Auto Rickshaw,Two-Wheeler Rider,Rear-end Collision,0,-5,serious
+DEL-ACC-01183,2024-06-20,night,Saket,E-Rickshaw,Passenger,Overturning,2,2,fatal
+DEL-ACC-01184,2024-06-21,morning,Paschim Vihar,Taxi,Passenger,Skidding,0,1,moderate
+DEL-ACC-01185,2024-06-21,morning,Paschim Vihar,Auto Rickshaw_err,Driver,Hit and Run,0,2,serious
+DEL-ACC-01186,2024-06-21,morning,Paschim Vihar,Bus,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-01187,2024-06-21,afternoon,Chandni Chowk,Private Car,Driver,Skidding,0,2,serious
+DEL-ACC-01188,2024-06-21,afternoon,Chandni Chowk,Taxi,Driver,Side-swipe,0,2,serious
+DEL-ACC-01189,2024-06-21,evening,Chandni Chowk,Two-Wheeler,Driver,Head-on Collision,0,0,minor
+DEL-ACC-01190,2024-06-21,evening,Chandni Chowk,E-Rickshaw,Cyclist,Skidding,0,2,serious
+DEL-ACC-01191,2024-06-21,evening,Chandni Chowk,Truck,Driver,Skidding,0,1,moderate
+DEL-ACC-01192,2024-06-21,night,Hauz Khas,Auto Rickshaw,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-01193,2024-06-21,night,Hauz Khas,Private Car,Passenger,Head-on Collision,0,-5,moderate
+DEL-ACC-01194,2024-06-21,night,Hauz Khas,E-Rickshaw,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-01195,2024-06-22,morning,Chandni Chowk,Truck,Passenger,Skidding,1,3,fatal
+DEL-ACC-01196,2024-06-22,afternoon,Patparganj,Bus,Cyclist,Skidding,0,1,moderate
+DEL-ACC-01197,2024-06-22,evening,Okhla,Private Car,Passenger,Head-on Collision,0,1,moderate
+DEL-ACC-01198,2024-06-22,night,Hauz Khas,Two-Wheeler,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-01199,2024-06-23,morning,Chandni Chowk,E-Rickshaw,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-01200,2024-06-23,morning,Chandni Chowk,Private Car,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-01201,2024-06-23,morning,Chandni Chowk,Truck,Cyclist,Skidding,1,1,minor
+DEL-ACC-01202,2024-06-23,morning,Chandni Chowk,Bus,Driver,Rear-end Collision,0,2,serious
+DEL-ACC-01203,2024-06-23,afternoon,Hauz Khas,Truck,Two-Wheeler Rider,Skidding,1,3,fatal
+DEL-ACC-01204,2024-06-23,afternoon,Hauz Khas,Private Car,Pedestrian,Rear-end Collision,0,2,serious
+DEL-ACC-01205,2024-06-23,afternoon,Hauz Khas,Taxi,Pedestrian,Skidding,0,2,serious
+DEL-ACC-01206,2024-06-23,evening,Janakpuri,Bus,Passenger,Side-swipe,0,1,moderate
+DEL-ACC-01207,2024-06-23,evening,Janakpuri,E-Rickshaw,Passenger,Skidding,0,0,minor
+DEL-ACC-01208,2024-06-23,evening,Janakpuri,Auto Rickshaw,Passenger,Skidding,0,1,moderate
+DEL-ACC-01209,2024-06-23,evening,Janakpuri,Bus,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-01210,2024-06-23,night,Dwarka,Truck,Cyclist,Head-on Collision,0,-5,minor
+DEL-ACC-01211,2024-06-23,night,Dwarka,Private Car,Pedestrian,Head-on Collision,0,1,moderate
+DEL-ACC-01212,2024-06-23,night,Dwarka,Taxi,Pedestrian,Skidding,2,3,fatal
+DEL-ACC-01213,2024-06-24,morning,Janakpuri,Truck,Two-Wheeler Rider,Skidding,1,3,fatal
+DEL-ACC-01214,2024-06-24,morning,Janakpuri,Bus,Driver,Overturning,0,1,moderate
+DEL-ACC-01215,2024-06-24,morning,Janakpuri,Taxi,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-01216,2024-06-24,afternoon,Dwarka,Private Car,Passenger,Skidding,0,1,moderate
+DEL-ACC-01217,2024-06-24,afternoon,Dwarka,Truck,Two-Wheeler Rider,Skidding,1,3,fatal
+DEL-ACC-01218,2024-06-24,afternoon,Dwarka,Truck,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-01219,2024-06-24,evening,Shahdara,Private Car,Passenger,Overturning,0,2,serious
+DEL-ACC-01220,2024-06-24,evening,Shahdara,Truck,Pedestrian,Skidding,0,2,serious
+DEL-ACC-01221,2024-06-24,evening,Shahdara,car,Pedestrian,Skidding,0,0,minor
+DEL-ACC-01222,2024-06-24,evening,Shahdara,Bus,Two-Wheeler Rider,Head-on Collision,0,2,serious
+DEL-ACC-01223,2024-06-24,night,Shahdara,Auto Rickshaw,Driver,Skidding,0,2,serious
+DEL-ACC-01224,2024-06-24,night,Shahdara,Taxi,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-01225,2024-06-25,morning,Model Town,Auto Rickshaw,Two-Wheeler Rider,Overturning,0,2,serious
+DEL-ACC-01226,2024-06-25,afternoon,Patparganj,Private Car,Driver,Skidding,0,1,moderate
+DEL-ACC-01227,2024-06-25,evening,Patparganj,Truck,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-01228,2024-06-25,evening,Patparganj,Private Car,Cyclist,Overturning,0,2,serious
+DEL-ACC-01229,2024-06-25,night,Connaught Place,Truck,Driver,Head-on Collision,0,2,serious
+DEL-ACC-01230,2024-06-26,morning,Model Town,Truck,Cyclist,Side-swipe,2,2,minor
+DEL-ACC-01231,2024-06-26,morning,Model Town,Auto Rickshaw,Pedestrian,Side-swipe,0,1,moderate
+DEL-ACC-01232,2024-06-26,morning,Model Town,Two-Wheeler,Cyclist,Head-on Collision,0,2,serious
+DEL-ACC-01233,2024-06-26,morning,Model Town,Taxi,Passenger,Side-swipe,0,0,minor
+DEL-ACC-01234,2024-06-26,afternoon,Karol Bagh,Private Car,Passenger,Rear-end Collision,0,2,serious
+DEL-ACC-01235,2024-06-26,afternoon,Karol Bagh,Two-Wheeler,Cyclist,Overturning,0,0,minor
+DEL-ACC-01236,2024-06-26,afternoon,Karol Bagh,Truck,Driver,Skidding,2,1,fatal
+DEL-ACC-01237,2024-06-26,evening,Lajpat Nagar,Private Car,Pedestrian,Skidding,0,0,minor
+DEL-ACC-01238,2024-06-26,evening,Lajpat Nagar,Auto Rickshaw,Passenger,Skidding,0,-5,moderate
+DEL-ACC-01239,2024-06-26,evening,Lajpat Nagar,Taxi,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-01240,2024-06-26,night,Rohini,Taxi,Cyclist,Skidding,0,0,minor
+DEL-ACC-01241,2024-06-26,night,Rohini,Truck,Two-Wheeler Rider,Head-on Collision,0,1,moderate
+DEL-ACC-01242,2024-06-27,morning,Connaught Place,Two-Wheeler,Two-Wheeler Rider,Head-on Collision,0,2,serious
+DEL-ACC-01243,2024-06-27,morning,Connaught Place,Bus,Passenger,Skidding,0,0,minor
+DEL-ACC-01244,2024-06-27,morning,Connaught Place,Private Car,Driver,Skidding,0,1,moderate
+DEL-ACC-01245,2024-06-27,morning,Connaught Place,Private Car,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-01246,2024-06-27,afternoon,Vasant Kunj,Auto Rickshaw,Cyclist,Side-swipe,0,2,serious
+DEL-ACC-01247,2024-06-27,afternoon,Vasant Kunj,Two-Wheeler,Cyclist,Rear-end Collision,0,2,serious
+DEL-ACC-01248,2024-06-27,evening,Mayur Vihar,Bus,Driver,Skidding,1,2,minor
+DEL-ACC-01249,2024-06-27,evening,Mayur Vihar,Truck,Cyclist,Overturning,0,0,minor
+DEL-ACC-01250,2024-06-27,evening,Mayur Vihar,Two-Wheeler,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-01251,2024-06-27,evening,Mayur Vihar,Auto Rickshaw,Cyclist,Skidding,0,1,moderate
+DEL-ACC-01252,2024-06-27,night,Greater Kailash,Auto Rickshaw,Passenger,Skidding,2,3,fatal
+DEL-ACC-01253,2024-06-27,night,Greater Kailash,Taxi,Two-Wheeler Rider,Rear-end Collision,0,1,moderate
+DEL-ACC-01254,2024-06-28,morning,Saket,Two-Wheeler,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-01255,2024-06-28,morning,Saket,Private Car,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-01256,2024-06-28,morning,Saket,E-Rickshaw,Passenger,Skidding,0,0,minor
+DEL-ACC-01257,2024-06-28,morning,Saket,Taxi,Driver,Rear-end Collision,0,1,moderate
+DEL-ACC-01258,2024-06-28,afternoon,Vikas Puri,Auto Rickshaw,Pedestrian,Skidding,0,1,moderate
+DEL-ACC-01259,2024-06-28,afternoon,Vikas Puri,Two-Wheeler,Pedestrian,Skidding,0,-5,minor
+DEL-ACC-01260,2024-06-28,afternoon,Vikas Puri,E-Rickshaw,Cyclist,Skidding,0,2,serious
+DEL-ACC-01261,2024-06-28,evening,Greater Kailash,Auto Rickshaw,Driver,Hit and Run,0,0,minor
+DEL-ACC-01262,2024-06-28,evening,Greater Kailash,Bus,Driver,Skidding,0,1,moderate
+DEL-ACC-01263,2024-06-28,evening,Greater Kailash,Auto Rickshaw,Two-Wheeler Rider,Skidding,0,1,moderate
+DEL-ACC-01264,2024-06-28,night,Paschim Vihar,Two-Wheeler,Driver,Skidding,0,2,serious
+DEL-ACC-01265,2024-06-28,night,Paschim Vihar,Bus,Cyclist,Head-on Collision,0,1,moderate
+DEL-ACC-01266,2024-06-28,night,Paschim Vihar,Truck,Two-Wheeler Rider,Rear-end Collision,0,2,serious
+DEL-ACC-01267,2024-06-29,morning,Vasant Kunj,Private Car,Pedestrian,Hit and Run,0,2,serious
+DEL-ACC-01268,2024-06-29,morning,Vasant Kunj,Truck,Pedestrian,Rear-end Collision,0,2,serious
+DEL-ACC-01269,2024-06-29,afternoon,Okhla,Auto Rickshaw,Passenger,Skidding,0,0,minor
+DEL-ACC-01270,2024-06-29,afternoon,Okhla,Auto Rickshaw,Driver,Hit and Run,0,2,serious
+DEL-ACC-01271,2024-06-29,afternoon,Okhla,Taxi,Driver,Skidding,0,0,minor
+DEL-ACC-01272,2024-06-29,evening,Okhla,Bus,Cyclist,Skidding,0,0,minor
+DEL-ACC-01273,2024-06-29,evening,Okhla,Bus,Pedestrian,Skidding,0,2,serious
+DEL-ACC-01274,2024-06-29,evening,Okhla,E-Rickshaw,Driver,Overturning,0,2,serious
+DEL-ACC-01275,2024-06-29,night,Chandni Chowk,Truck,Cyclist,Skidding,0,0,minor
+DEL-ACC-01276,2024-06-29,night,Chandni Chowk,Truck,Pedestrian,Skidding,0,0,minor
+DEL-ACC-01277,2024-06-29,night,Chandni Chowk,Two-Wheeler,Passenger,Skidding,0,1,moderate
+DEL-ACC-01278,2024-06-30,morning,Hauz Khas,Taxi,Cyclist,Head-on Collision,0,0,minor
+DEL-ACC-01279,2024-06-30,afternoon,Vikas Puri,Two-Wheeler,Two-Wheeler Rider,Skidding,0,2,serious
+DEL-ACC-01280,2024-06-30,evening,Dwarka,Truck,Cyclist,Rear-end Collision,0,1,moderate
+DEL-ACC-01281,2024-06-30,evening,Dwarka,Truck,Two-Wheeler Rider,Side-swipe,0,2,serious
+DEL-ACC-01282,2024-06-30,night,Rohini,Auto Rickshaw,Pedestrian,Skidding,0,2,serious

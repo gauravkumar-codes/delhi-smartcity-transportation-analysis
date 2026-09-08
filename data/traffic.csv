@@ -1,0 +1,729 @@
+Date,Time,Location,Vehicle_Count,Average_Speed_kmph,Traffic_Density_Index,Congestion_Level,Road_Category
+2024-01-01,morning,Pitampura,1075.0,27,38.39,Heavy,Arterial
+2024-01-01,afternoon,Rajouri Garden,648.0,41,15.43,Moderate,Main Road
+2024-01-01,evening,Okhla,1582.0,23,65.92,Severe,Highway
+2024-01-01,night,Chandni Chowk,187.0,66,2.79,Low,Highway
+2024-01-02,morning,Janakpuri,1173.0,25,45.12,Severe,Main Road
+2024-01-02,afternoon,Pitampura,652.0,39,16.3,Moderate,Main Road
+2024-01-02,evening,Patparganj,1496.0,25,57.54,Severe,Main Road
+2024-01-02,night,Chandni Chowk,317.0,70,4.46,Low,Main Road
+2024-01-03,morning,Chandni Chowk,934.0,27,33.36,Heavy,Arterial
+2024-01-03,afternoon,Dwarka,751.0,41,17.88,Moderate,Highway
+2024-01-03,evening,Janakpuri,1198.0,12,92.15,Severe,Highway
+2024-01-03,night,Shahdara,252.0,68,3.65,Low,Highway
+2024-01-04,morning,Saket,1045.0,22,45.43,Severe,Highway
+2024-01-04,afternoon,Mayur Vihar,707.0,40,17.24,Moderate,Main Road
+2024-01-04,evening,Lajpat Nagar,1279.0,16,75.24,Severe,Highway
+2024-01-04,night,Saket,393.0,69,5.61,Low,Main Road
+2024-01-05,morning,Rohini,1396.0,32,42.3,Severe,Highway
+2024-01-05,afternoon,Mayur Vihar,765.0,37,20.13,Moderate,Highway
+2024-01-05,evening,Mayur Vihar,1488.0,23,62.0,Severe,Main Road
+2024-01-05,night,Vikas Puri,330.0,70,4.65,Low,Arterial
+2024-01-06,morning,Karol Bagh,739.0,36,19.97,Moderate,Arterial
+2024-01-06,afternoon,Hauz Khas,652.0,43,14.82,Moderate,Arterial
+2024-01-06,evening,Okhla,1075.0,32,32.58,Heavy,Main Road
+2024-01-06,night,Okhla,300.0,85,3.49,Low,Main Road
+2024-01-07,morning,Patparganj,928.0,25,35.69,Heavy,Main Road
+2024-01-07,afternoon,Mayur Vihar,743.0,56,13.04,Moderate,Arterial
+2024-01-07,evening,Rajouri Garden,981.0,16,57.71,Severe,Main Road
+2024-01-07,night,Shahdara,167.0,84,1.96,Low,Highway
+2024-01-08,morning,Connaught Place,1372.0,27,49.0,Severe,Main Road
+2024-01-08,afternoon,Patparganj,880.0,39,22.0,Moderate,Main Road
+2024-01-08,evening,Pitampura,1147.0,18,60.37,Severe,Highway
+2024-01-08,night,Vasant Kunj,370.0,67,5.44,Low,Main Road
+2024-01-09,morning,Pitampura,1070.0,30,34.52,Heavy,Main Road
+2024-01-09,afternoon,Model Town,,37,18.53,Moderate,Main Road
+2024-01-09,evening,Dwarka,1258.0,21,57.18,Severe,Main Road
+2024-01-09,night,Greater Kailash,164.0,74,2.19,Low,Main Road
+2024-01-10,morning,Model Town,1302.0,32,39.45,Heavy,Highway
+2024-01-10,afternoon,Vasant Kunj,557.0,37,14.66,Moderate,Highway
+2024-01-10,evening,Saket,1049.0,13,74.93,Severe,Highway
+2024-01-10,night,,214.0,65,3.24,Low,Highway
+2024-01-11,morning,Okhla,1252.0,29,41.73,Severe,Main Road
+2024-01-11,afternoon,Pitampura,930.0,38,23.85,Moderate,Highway
+2024-01-11,evening,Mayur Vihar,1104.0,15,69.0,Severe,Main Road
+2024-01-11,night,Janakpuri,422.0,70,5.94,Low,High-Way
+2024-01-12,morning,Okhla,1083.0,24,43.32,Severe,Main Road
+2024-01-12,afternoon,Shahdara,752.0,36,20.32,Moderate,Main Road
+2024-01-12,evening,Greater Kailash,1224.0,15,76.5,Severe,Arterial
+2024-01-12,night,Vikas Puri,426.0,70,6.0,Low,Main Road
+2024-01-13,morning,Dwarka,1089.0,37,28.66,Heavy,Arterial
+2024-01-13,afternoon,Model Town,541.0,42,12.58,Moderate,Highway
+2024-01-13,evening,Janakpuri,1070.0,27,38.21,Heavy,Arterial
+2024-01-13,night,Dwarka,335.0,68,4.86,Low,Arterial
+2024-01-14,morning,Saket,940.0,38,24.1,Moderate,Main Road
+2024-01-14,afternoon,Lajpat Nagar,489.0,-50,9.78,Low,Highway
+2024-01-14,evening,Karol Bagh,1191.0,24,47.64,Severe,Highway
+2024-01-14,night,Dwarka,225.0,68,3.26,Low,Main Road
+2024-01-15,morning,Model Town,1271.0,27,45.39,Severe,Arterial
+2024-01-15,afternoon,Mayur Vihar,698.0,37,18.37,Moderate,Main Road
+2024-01-15,evening,Saket,1574.0,12,121.08,Severe,Main Road
+2024-01-15,night,Karol Bagh,447.0,60,7.33,Low,Highway
+2024-01-16,morning,Dwarka,1226.0,28,42.28,Severe,Main Road
+2024-01-16,afternoon,Greater Kailash,742.0,37,19.53,Moderate,Main Road
+2024-01-16,evening,Hauz Khas,1232.0,17,68.44,Severe,Main Road
+2024-01-16,night,Okhla,322.0,74,4.29,Low,Arterial
+2024-01-17,morning,Janakpuri,1096.0,34,31.31,Heavy,Main Road
+2024-01-17,afternoon,Greater Kailash,702.0,39,17.55,Moderate,Highway
+2024-01-17,evening,Janakpuri,1349.0,16,79.35,Severe,Main Road
+2024-01-17,night,Hauz Khas,474.0,63,7.41,Low,Main Road
+2024-01-18,morning,Paschim Vihar,1142.0,25,43.92,Severe,Main Road
+2024-01-18,afternoon,Model Town,689.0,-50,14.06,Moderate,Main Road
+2024-01-18,evening,Okhla,1590.0,25,61.15,Severe,Arterial
+2024-01-18,night,Paschim Vihar,228.0,63,3.56,Low,Highway
+2024-01-19,morning,Vasant Kunj,,26,33.74,Heavy,Main Road
+2024-01-19,afternoon,Okhla,828.0,999,18.4,Moderate,Main Road
+2024-01-19,evening,Paschim Vihar,1421.0,17,78.94,Severe,Main Road
+2024-01-19,night,Rohini,218.0,55,3.89,Low,Main Road
+2024-01-20,morning,Pitampura,868.0,34,24.8,Moderate,Main Road
+2024-01-20,afternoon,Vasant Kunj,568.0,54,10.33,Moderate,Main Road
+2024-01-20,evening,Rohini,928.0,24,37.12,Heavy,Main Road
+2024-01-20,night,Mayur Vihar,238.0,76,3.09,Low,Highway
+2024-01-21,morning,Janakpuri,831.0,24,33.24,Heavy,Main Road
+2024-01-21,afternoon,Chandni Chowk,617.0,-50,11.02,Moderate,Main Road
+2024-01-21,evening,Patparganj,1168.0,28,40.28,Severe,Main Road
+2024-01-21,night,Vikas Puri,165.0,70,2.32,Low,Main Road
+2024-01-22,morning,Janakpuri,952.0,34,27.2,Heavy,Main Road
+2024-01-22,afternoon,Shahdara,810.0,46,17.23,Moderate,Main Road
+2024-01-22,evening,Shahdara,,12,108.92,Severe,Highway
+2024-01-22,night,Rohini,316.0,69,4.51,Low,Main Road
+2024-01-23,morning,Connaught Place,1129.0,28,38.93,Heavy,main road
+2024-01-23,afternoon,Karol Bagh,792.0,38,20.31,Moderate,Main Road
+2024-01-23,evening,Pitampura,1650.0,14,110.0,Severe,Arterial
+2024-01-23,night,Vasant Kunj,204.0,60,3.34,Low,Highway
+2024-01-24,morning,Pitampura,1069.0,32,32.39,Heavy,Highway
+2024-01-24,afternoon,Vasant Kunj,778.0,41,18.52,Moderate,Main Road
+2024-01-24,evening,Janakpuri,1568.0,19,78.4,Severe,Arterial
+2024-01-24,night,Mayur Vihar,215.0,59,3.58,Low,Main Road
+2024-01-25,morning,Saket,1192.0,34,34.06,Heavy,Main Road
+2024-01-25,afternoon,Rohini,582.0,44,12.93,Moderate,Highway
+2024-01-25,evening,Hauz Khas,1589.0,23,66.21,Severe,High-Way
+2024-01-25,night,Connaught Place,216.0,60,3.54,Low,Highway
+2024-01-26,morning,Shahdara,1186.0,23,49.42,Severe,Highway
+2024-01-26,afternoon,Mayur Vihar,899.0,37,23.66,Moderate,Highway
+2024-01-26,evening,Janakpuri,1476.0,18,77.68,Severe,Main Road
+2024-01-26,night,Shahdara,411.0,74,5.48,Low,Main Road
+2024-01-27,morning,Rohini,1080.0,24,43.2,Severe,Main Road
+2024-01-27,afternoon,Shahdara,566.0,48,11.55,Moderate,Arterial
+2024-01-27,evening,Connaught Place,914.0,22,39.74,Heavy,Main Road
+2024-01-27,night,Okhla,328.0,82,3.95,Low,Highway
+2024-01-28,morning,Greater Kailash,858.0,28,29.59,Heavy,Highway
+2024-01-28,afternoon,,690.0,50,13.53,Moderate,Main Road
+2024-01-28,evening,Rohini,1366.0,26,50.59,Severe,Main Road
+2024-01-28,night,Connaught Place,226.0,78,2.86,Low,Main Road
+2024-01-29,morning,Greater Kailash,1248.0,21,56.73,Severe,Highway
+2024-01-29,afternoon,Pitampura,895.0,37,23.55,Moderate,Arterial
+2024-01-29,evening,Vasant Kunj,1292.0,20,61.52,Severe,Arterial
+2024-01-29,night,Okhla,413.0,74,5.51,Low,Main Road
+2024-01-30,morning,Okhla,1373.0,28,47.34,Severe,Highway
+2024-01-30,afternoon,Karol Bagh,715.0,46,15.21,Moderate,Arterial
+2024-01-30,evening,Paschim Vihar,1474.0,12,113.38,Severe,Arterial
+2024-01-30,night,Patparganj,275.0,59,4.58,Low,Arterial
+2024-01-31,morning,Pitampura,940.0,14,62.67,Severe,Main Road
+2024-01-31,afternoon,Vikas Puri,542.0,26,20.07,Moderate,Main Road
+2024-01-31,evening,Rajouri Garden,1082.0,11,90.17,Severe,Main Road
+2024-01-31,night,Dwarka,305.0,36,8.24,Low,Main Road
+2024-02-01,morning,Connaught Place,912.0,17,50.67,Severe,Main Road
+2024-02-01,afternoon,Pitampura,675.0,24,27.0,Heavy,Highway
+2024-02-01,evening,Paschim Vihar,1138.0,8,126.44,Severe,Main Road
+2024-02-01,night,Okhla,369.0,33,10.85,Moderate,Main Road
+2024-02-02,morning,Chandni Chowk,1369.0,999,40.26,Severe,Main Road
+2024-02-02,afternoon,Dwarka,828.0,42,19.26,Moderate,Main Road
+2024-02-02,evening,Paschim Vihar,1180.0,24,47.2,Severe,Arterial
+2024-02-02,night,Pitampura,335.0,61,5.4,Low,Highway
+2024-02-03,morning,Patparganj,1005.0,36,27.16,Heavy,Highway
+2024-02-03,afternoon,Saket,496.0,58,8.41,Low,Main Road
+2024-02-03,evening,Karol Bagh,960.0,31,30.0,Heavy,Arterial
+2024-02-03,night,Paschim Vihar,252.0,78,3.19,Low,Highway
+2024-02-04,morning,Lajpat Nagar,874.0,13,62.43,Severe,Main Road
+2024-02-04,afternoon,Mayur Vihar,558.0,24,22.32,Moderate,Main Road
+2024-02-04,evening,Mayur Vihar,860.0,13,61.43,Severe,Arterial
+2024-02-04,night,Rajouri Garden,227.0,39,5.68,Low,Main Road
+2024-02-05,morning,Chandni Chowk,1214.0,27,43.36,Severe,Highway
+2024-02-05,afternoon,Pitampura,737.0,42,17.14,Moderate,Highway
+2024-02-05,evening,Rohini,1028.0,16,60.47,Severe,Arterial
+2024-02-05,night,Rohini,352.0,59,5.87,Low,Main Road
+2024-02-06,morning,Rajouri Garden,924.0,33,27.18,Heavy,Highway
+2024-02-06,afternoon,Paschim Vihar,819.0,49,16.38,Moderate,Highway
+2024-02-06,evening,Vasant Kunj,1460.0,19,73.0,Severe,Arterial
+2024-02-06,night,Shahdara,363.0,56,6.37,Low,Highway
+2024-02-07,morning,Pitampura,977.0,32,29.61,Heavy,Main Road
+2024-02-07,afternoon,Lajpat Nagar,551.0,48,11.24,Moderate,Main Road
+2024-02-07,evening,Janakpuri,1221.0,17,67.83,Severe,Highway
+2024-02-07,night,Vasant Kunj,261.0,59,4.35,Low,Main Road
+2024-02-08,morning,Connaught Place,1255.0,31,39.22,Heavy,Highway
+2024-02-08,afternoon,Rohini,791.0,36,21.38,Moderate,Highway
+2024-02-08,evening,Patparganj,1211.0,17,67.28,Severe,Highway
+2024-02-08,night,Karol Bagh,172.0,64,2.65,Low,Main Road
+2024-02-09,morning,Mayur Vihar,949.0,29,31.63,Heavy,Main Road
+2024-02-09,afternoon,Okhla,600.0,40,14.63,Moderate,Arterial
+2024-02-09,evening,Vasant Kunj,1200.0,15,75.0,Severe,Main Road
+2024-02-09,night,Rajouri Garden,178.0,73,2.41,Low,Highway
+2024-02-10,morning,Vikas Puri,825.0,27,29.46,Heavy,Main Road
+2024-02-10,afternoon,Vikas Puri,524.0,49,10.48,Moderate,Highway
+2024-02-10,evening,Rajouri Garden,1155.0,32,35.0,Heavy,Main Road
+2024-02-10,night,Mayur Vihar,175.0,70,2.46,Low,Main Road
+2024-02-11,morning,Pitampura,1063.0,36,28.73,Heavy,Main Road
+2024-02-11,afternoon,Saket,598.0,54,10.87,Moderate,Arterial
+2024-02-11,evening,Shahdara,1170.0,20,55.71,Severe,Main Road
+2024-02-11,night,Vikas Puri,332.0,81,4.05,Low,Main Road
+2024-02-12,morning,Connaught Place,1054.0,29,35.13,Heavy,Arterial
+2024-02-12,afternoon,Vikas Puri,695.0,35,19.31,Moderate,Highway
+2024-02-12,evening,Vikas Puri,1294.0,17,71.89,Severe,Arterial
+2024-02-12,night,Vikas Puri,376.0,64,5.78,Low,Main Road
+2024-02-13,morning,Saket,1498.0,24,59.92,Severe,Main Road
+2024-02-13,afternoon,Saket,753.0,47,15.69,Moderate,Arterial
+2024-02-13,evening,Connaught Place,1404.0,25,54.0,Severe,Highway
+2024-02-13,night,Rohini,407.0,66,6.07,Low,Main Road
+2024-02-14,morning,Rohini,1507.0,26,55.81,Severe,Main Road
+2024-02-14,afternoon,Patparganj,731.0,42,17.0,Moderate,Main Road
+2024-02-14,evening,Saket,1369.0,16,80.53,Severe,main road
+2024-02-14,night,Mayur Vihar,482.0,60,7.9,Low,Main Road
+2024-02-15,morning,Lajpat Nagar,1357.0,23,56.54,Severe,Highway
+2024-02-15,afternoon,Dwarka,754.0,39,18.85,Moderate,Arterial
+2024-02-15,evening,Chandni Chowk,1246.0,24,49.84,Severe,Highway
+2024-02-15,night,Vikas Puri,158.0,63,2.47,Low,Highway
+2024-02-16,morning,Lajpat Nagar,1353.0,26,50.11,Severe,Arterial
+2024-02-16,afternoon,Connaught Place,610.0,38,15.64,Moderate,Main Road
+2024-02-16,evening,Rajouri Garden,1391.0,22,60.48,Severe,Main Road
+2024-02-16,night,Saket,190.0,72,2.6,Low,Main Road
+2024-02-17,morning,Lajpat Nagar,845.0,39,21.12,Moderate,Main Road
+2024-02-17,afternoon,Chandni Chowk,440.0,49,8.8,Low,Main Road
+2024-02-17,evening,Hauz Khas,1132.0,20,53.9,Severe,Highway
+2024-02-17,night,Hauz Khas,216.0,73,2.92,Low,Arterial
+2024-02-18,morning,Rohini,761.0,27,27.18,Heavy,Arterial
+2024-02-18,afternoon,Vasant Kunj,499.0,42,11.6,Moderate,Main Road
+2024-02-18,evening,Lajpat Nagar,878.0,15,54.88,Severe,Main Road
+2024-02-18,night,Hauz Khas,227.0,67,3.34,Low,Highway
+2024-02-19,morning,Shahdara,1041.0,27,37.18,Heavy,Main Road
+2024-02-19,afternoon,Rajouri Garden,671.0,42,15.6,Moderate,Main Road
+2024-02-19,evening,Dwarka,1231.0,12,94.69,Severe,Arterial
+2024-02-19,night,Patparganj,436.0,68,6.32,Low,Main Road
+2024-02-20,morning,Shahdara,876.0,13,62.57,Severe,Arterial
+2024-02-20,afternoon,Patparganj,513.0,25,19.73,Moderate,Main Road
+2024-02-20,evening,Rajouri Garden,1278.0,12,98.31,Severe,Main Road
+2024-02-20,night,Pitampura,146.0,37,3.84,Low,Main Road
+2024-02-21,morning,Rajouri Garden,1076.0,34,30.74,Heavy,Main Road
+2024-02-21,afternoon,Vasant Kunj,655.0,42,15.23,Moderate,Highway
+2024-02-21,evening,Rohini,1392.0,14,92.8,Severe,Main Road
+2024-02-21,night,Janakpuri,235.0,70,3.31,Low,Highway
+2024-02-22,morning,Pitampura,988.0,-50,32.93,Heavy,Highway
+2024-02-22,afternoon,Model Town,719.0,48,14.67,Moderate,Main Road
+2024-02-22,evening,Janakpuri,1325.0,17,73.61,Severe,Highway
+2024-02-22,night,Rohini,296.0,60,4.85,Low,main road
+2024-02-23,morning,Chandni Chowk,1174.0,21,53.36,Severe,Arterial
+2024-02-23,afternoon,Model Town,602.0,42,14.0,Moderate,Arterial
+2024-02-23,evening,Karol Bagh,1239.0,27,44.25,Severe,Arterial
+2024-02-23,night,Shahdara,352.0,71,4.89,Low,Arterial
+2024-02-24,morning,Pitampura,895.0,31,27.97,Heavy,Highway
+2024-02-24,afternoon,Hauz Khas,485.0,45,10.54,Moderate,Main Road
+2024-02-24,evening,Hauz Khas,1236.0,16,72.71,Severe,Arterial
+2024-02-24,night,Rajouri Garden,286.0,73,3.86,Low,Main Road
+2024-02-25,morning,Vikas Puri,933.0,24,37.32,Heavy,Main Road
+2024-02-25,afternoon,Saket,469.0,999,8.38,Low,Arterial
+2024-02-25,evening,Rohini,951.0,32,28.82,Heavy,Main Road
+2024-02-25,night,Hauz Khas,183.0,66,2.73,Low,Highway
+2024-02-26,morning,Mayur Vihar,1186.0,22,51.57,Severe,Highway
+2024-02-26,afternoon,Connaught Place,650.0,44,14.44,Moderate,Main Road
+2024-02-26,evening,Connaught Place,1584.0,18,83.37,Severe,Main Road
+2024-02-26,night,Vasant Kunj,165.0,61,2.66,Low,Highway
+2024-02-27,morning,Vasant Kunj,1153.0,30,37.19,Heavy,Highway
+2024-02-27,afternoon,Shahdara,616.0,35,17.11,Moderate,Main Road
+2024-02-27,evening,Patparganj,1592.0,22,69.22,Severe,Arterial
+2024-02-27,night,Hauz Khas,281.0,65,4.26,Low,Highway
+2024-02-28,morning,Hauz Khas,1207.0,30,38.94,Heavy,Main Road
+2024-02-28,afternoon,Shahdara,765.0,49,15.3,Moderate,Arterial
+2024-02-28,evening,Rajouri Garden,1123.0,25,43.19,Severe,Arterial
+2024-02-28,night,Rohini,203.0,58,3.44,Low,Main Road
+2024-02-29,morning,Rajouri Garden,1204.0,28,41.52,Severe,Highway
+2024-02-29,afternoon,Chandni Chowk,781.0,49,15.62,Moderate,Main Road
+2024-02-29,evening,Vikas Puri,1567.0,25,60.27,Severe,Highway
+2024-02-29,night,Janakpuri,363.0,65,5.5,Low,Main Road
+2024-03-01,morning,Dwarka,1110.0,23,46.25,Severe,Main Road
+2024-03-01,afternoon,Lajpat Nagar,798.0,45,17.35,Moderate,Highway
+2024-03-01,evening,Janakpuri,1239.0,14,82.6,Severe,Main Road
+2024-03-01,night,Rajouri Garden,156.0,59,2.6,Low,Main Road
+2024-03-02,morning,Shahdara,692.0,14,46.13,Severe,Main Road
+2024-03-02,afternoon,Hauz Khas,503.0,26,18.63,Moderate,Main Road
+2024-03-02,evening,Shahdara,1059.0,16,62.29,Severe,Main Road
+2024-03-02,night,Model Town,166.0,36,4.49,Low,Main Road
+2024-03-03,morning,Greater Kailash,880.0,21,40.0,Heavy,Main Road
+2024-03-03,afternoon,Model Town,544.0,30,17.55,Moderate,Main Road
+2024-03-03,evening,Saket,838.0,16,49.29,Severe,Arterial
+2024-03-03,night,Shahdara,223.0,44,4.96,Low,Highway
+2024-03-04,morning,Hauz Khas,952.0,26,35.26,Heavy,Highway
+2024-03-04,afternoon,Vasant Kunj,703.0,41,16.74,Moderate,Main Road
+2024-03-04,evening,Dwarka,1520.0,20,72.38,Severe,Main Road
+2024-03-04,night,Rohini,324.0,59,5.4,Low,Highway
+2024-03-05,morning,Dwarka,979.0,30,31.58,Heavy,Main Road
+2024-03-05,afternoon,Rohini,819.0,42,19.05,Moderate,Arterial
+2024-03-05,evening,Greater Kailash,1252.0,23,52.17,Severe,Arterial
+2024-03-05,night,Hauz Khas,380.0,72,5.21,Low,Main Road
+2024-03-06,morning,Rajouri Garden,1302.0,30,42.0,Severe,Arterial
+2024-03-06,afternoon,Janakpuri,809.0,44,17.98,Moderate,Highway
+2024-03-06,evening,Pitampura,1256.0,12,96.62,Severe,Main Road
+2024-03-06,night,Shahdara,257.0,59,4.28,Low,Main Road
+2024-03-07,morning,Vikas Puri,1301.0,-50,48.19,Severe,Highway
+2024-03-07,afternoon,Rohini,657.0,36,17.76,Moderate,Highway
+2024-03-07,evening,Hauz Khas,1176.0,24,47.04,Severe,Main Road
+2024-03-07,night,Mayur Vihar,190.0,66,2.84,Low,Arterial
+2024-03-08,morning,Patparganj,1121.0,28,38.66,Heavy,Main Road
+2024-03-08,afternoon,Greater Kailash,753.0,42,17.51,Moderate,Main Road
+2024-03-08,evening,Lajpat Nagar,1580.0,17,87.78,Severe,Main Road
+2024-03-08,night,Lajpat Nagar,343.0,64,5.28,Low,Main Road
+2024-03-09,morning,Paschim Vihar,789.0,28,27.21,Heavy,Main Road
+2024-03-09,afternoon,Patparganj,622.0,54,11.31,Moderate,Main Road
+2024-03-09,evening,Janakpuri,1263.0,24,50.52,Severe,Arterial
+2024-03-09,night,,310.0,81,3.78,Low,Main Road
+2024-03-10,morning,Rohini,1008.0,26,37.33,Heavy,Arterial
+2024-03-10,afternoon,Okhla,479.0,48,9.78,Low,Main Road
+2024-03-10,evening,Rohini,854.0,28,29.45,Heavy,Main Road
+2024-03-10,night,Connaught Place,153.0,80,1.89,Low,Arterial
+2024-03-11,morning,Hauz Khas,1291.0,25,49.65,Severe,Main Road
+2024-03-11,afternoon,Patparganj,,48,15.94,Moderate,Highway
+2024-03-11,evening,Dwarka,1091.0,13,77.93,Severe,Arterial
+2024-03-11,night,Shahdara,432.0,56,7.58,Low,Main Road
+2024-03-12,morning,Vikas Puri,1115.0,33,32.79,Heavy,Main Road
+2024-03-12,afternoon,Vikas Puri,597.0,999,16.58,Moderate,Highway
+2024-03-12,evening,Mayur Vihar,1538.0,16,90.47,Severe,Arterial
+2024-03-12,night,Greater Kailash,314.0,56,5.51,Low,Main Road
+2024-03-13,morning,Lajpat Nagar,1150.0,33,33.82,Heavy,Main Road
+2024-03-13,afternoon,Shahdara,630.0,47,13.12,Moderate,Main Road
+2024-03-13,evening,Vasant Kunj,1569.0,18,82.58,Severe,Main Road
+2024-03-13,night,Connaught Place,345.0,57,5.95,Low,Arterial
+2024-03-14,morning,Vikas Puri,1228.0,23,51.17,Severe,Arterial
+2024-03-14,afternoon,Greater Kailash,597.0,42,13.88,Moderate,Main Road
+2024-03-14,evening,Shahdara,1576.0,14,105.07,Severe,Main Road
+2024-03-14,night,Rohini,446.0,58,7.56,Low,Main Road
+2024-03-15,morning,Rajouri Garden,1374.0,22,59.74,Severe,Highway
+2024-03-15,afternoon,Rohini,819.0,39,20.48,Moderate,Main Road
+2024-03-15,evening,Shahdara,1130.0,27,40.36,Severe,Highway
+2024-03-15,night,Model Town,371.0,55,6.62,Low,Arterial
+2024-03-16,morning,Karol Bagh,898.0,34,25.66,Heavy,Highway
+2024-03-16,afternoon,Shahdara,622.0,44,13.82,Moderate,Highway
+2024-03-16,evening,Janakpuri,922.0,31,28.81,Heavy,Arterial
+2024-03-16,night,Greater Kailash,221.0,81,2.7,Low,Arterial
+2024-03-17,morning,Model Town,924.0,37,24.32,Moderate,Highway
+2024-03-17,afternoon,Okhla,536.0,44,11.91,Moderate,Main Road
+2024-03-17,evening,Saket,1222.0,32,37.03,Heavy,Arterial
+2024-03-17,night,Karol Bagh,300.0,72,4.11,Low,Arterial
+2024-03-18,morning,Saket,950.0,34,27.14,Heavy,Arterial
+2024-03-18,afternoon,Vikas Puri,823.0,42,19.14,Moderate,High-Way
+2024-03-18,evening,Janakpuri,1016.0,21,46.18,Severe,Highway
+2024-03-18,night,Rohini,332.0,71,4.61,Low,Highway
+2024-03-19,morning,Vasant Kunj,1035.0,29,34.5,Heavy,Main Road
+2024-03-19,afternoon,Chandni Chowk,849.0,40,20.71,Moderate,Main Road
+2024-03-19,evening,Hauz Khas,1501.0,25,57.73,Severe,Highway
+2024-03-19,night,Pitampura,379.0,63,5.92,Low,Main Road
+2024-03-20,morning,Karol Bagh,902.0,20,42.95,Severe,Main Road
+2024-03-20,afternoon,Shahdara,707.0,47,14.73,Moderate,Main Road
+2024-03-20,evening,Model Town,1548.0,15,96.75,Severe,Arterial
+2024-03-20,night,Paschim Vihar,411.0,65,6.23,Low,Arterial
+2024-03-21,morning,Pitampura,1160.0,999,42.96,Severe,Main Road
+2024-03-21,afternoon,Dwarka,689.0,38,17.67,Moderate,Main Road
+2024-03-21,evening,Paschim Vihar,1107.0,14,73.8,Severe,Arterial
+2024-03-21,night,Rajouri Garden,433.0,55,7.73,Low,Main Road
+2024-03-22,morning,Rohini,1054.0,25,40.54,Severe,Highway
+2024-03-22,afternoon,Janakpuri,779.0,44,17.31,Moderate,Arterial
+2024-03-22,evening,,1430.0,27,51.07,Severe,Main Road
+2024-03-22,night,Hauz Khas,174.0,61,2.81,Low,Highway
+2024-03-23,morning,Greater Kailash,745.0,27,26.61,Heavy,Main Road
+2024-03-23,afternoon,Mayur Vihar,623.0,43,14.16,Moderate,Highway
+2024-03-23,evening,Patparganj,1122.0,27,40.07,Severe,Arterial
+2024-03-23,night,Okhla,198.0,79,2.48,Low,Main Road
+2024-03-24,morning,Saket,923.0,16,54.29,Severe,High-Way
+2024-03-24,afternoon,Saket,538.0,31,16.81,Moderate,Highway
+2024-03-24,evening,Patparganj,780.0,-50,60.0,Severe,Highway
+2024-03-24,night,,294.0,48,6.0,Low,Arterial
+2024-03-25,morning,Rajouri Garden,1062.0,22,46.17,Severe,Main Road
+2024-03-25,afternoon,Karol Bagh,681.0,47,14.19,Moderate,Highway
+2024-03-25,evening,Lajpat Nagar,1449.0,22,63.0,Severe,Main Road
+2024-03-25,night,Okhla,432.0,61,6.97,Low,Main Road
+2024-03-26,morning,Chandni Chowk,,31,34.41,Heavy,Main Road
+2024-03-26,afternoon,Connaught Place,737.0,38,18.9,Moderate,Arterial
+2024-03-26,evening,Rohini,1004.0,26,37.19,Heavy,Main Road
+2024-03-26,night,Janakpuri,285.0,71,3.96,Low,Main Road
+2024-03-27,morning,Mayur Vihar,1207.0,33,35.5,Heavy,Arterial
+2024-03-27,afternoon,Mayur Vihar,756.0,39,18.9,Moderate,Highway
+2024-03-27,evening,,1252.0,14,83.47,Severe,Main Road
+2024-03-27,night,Pitampura,205.0,62,3.25,Low,Arterial
+2024-03-28,morning,Dwarka,1165.0,30,37.58,Heavy,Arterial
+2024-03-28,afternoon,Lajpat Nagar,763.0,46,16.23,Moderate,Main Road
+2024-03-28,evening,Paschim Vihar,1094.0,26,40.52,Severe,Main Road
+2024-03-28,night,Rajouri Garden,399.0,59,6.65,Low,Main Road
+2024-03-29,morning,Okhla,1136.0,-50,81.14,Severe,Highway
+2024-03-29,afternoon,Shahdara,680.0,26,25.19,Heavy,Main Road
+2024-03-29,evening,Janakpuri,1299.0,9,129.9,Severe,Arterial
+2024-03-29,night,Rajouri Garden,188.0,34,5.37,Low,Highway
+2024-03-30,morning,Hauz Khas,726.0,14,48.4,Severe,Main Road
+2024-03-30,afternoon,Paschim Vihar,412.0,30,13.29,Moderate,Arterial
+2024-03-30,evening,Model Town,722.0,16,42.47,Severe,Main Road
+2024-03-30,night,Karol Bagh,284.0,43,6.45,Low,Arterial
+2024-03-31,morning,Patparganj,817.0,28,28.17,Heavy,Main Road
+2024-03-31,afternoon,Vikas Puri,500.0,55,8.93,Low,Highway
+2024-03-31,evening,Patparganj,1023.0,21,46.5,Severe,Main Road
+2024-03-31,night,Connaught Place,236.0,66,3.52,Low,Main Road
+2024-04-01,morning,Vasant Kunj,1198.0,33,35.24,Heavy,main road
+2024-04-01,afternoon,Mayur Vihar,772.0,46,16.43,Moderate,Main Road
+2024-04-01,evening,Rohini,1586.0,19,79.3,Severe,Main Road
+2024-04-01,night,Rohini,347.0,-50,4.82,Low,Main Road
+2024-04-02,morning,Okhla,1210.0,25,46.54,Severe,Highway
+2024-04-02,afternoon,Saket,631.0,43,14.34,Moderate,main road
+2024-04-02,evening,Hauz Khas,1330.0,19,66.5,Severe,Main Road
+2024-04-02,night,Janakpuri,378.0,55,6.75,Low,Main Road
+2024-04-03,morning,Paschim Vihar,1259.0,-50,40.61,Severe,Arterial
+2024-04-03,afternoon,Rohini,733.0,38,18.79,Moderate,Arterial
+2024-04-03,evening,Hauz Khas,1092.0,21,49.64,Severe,Main Road
+2024-04-03,night,Pitampura,297.0,58,5.03,Low,Highway
+2024-04-04,morning,Connaught Place,963.0,24,38.52,Heavy,Arterial
+2024-04-04,afternoon,Shahdara,645.0,37,16.97,Moderate,Main Road
+2024-04-04,evening,Mayur Vihar,1223.0,16,71.94,Severe,Main Road
+2024-04-04,night,Hauz Khas,250.0,66,3.73,Low,Main Road
+2024-04-05,morning,Patparganj,1005.0,29,33.5,Heavy,Main Road
+2024-04-05,afternoon,Connaught Place,730.0,45,15.87,Moderate,Main Road
+2024-04-05,evening,Greater Kailash,1088.0,18,57.26,Severe,main road
+2024-04-05,night,Connaught Place,385.0,57,6.64,Low,Highway
+2024-04-06,morning,Okhla,1071.0,30,34.55,Heavy,Highway
+2024-04-06,afternoon,Vikas Puri,532.0,49,10.64,Moderate,Main Road
+2024-04-06,evening,Greater Kailash,1028.0,25,39.54,Heavy,Arterial
+2024-04-06,night,Rajouri Garden,160.0,70,2.25,Low,Main Road
+2024-04-07,morning,Connaught Place,,34,23.09,Moderate,Highway
+2024-04-07,afternoon,Mayur Vihar,642.0,44,14.27,Moderate,Highway
+2024-04-07,evening,Hauz Khas,1262.0,15,78.88,Severe,Main Road
+2024-04-07,night,Hauz Khas,171.0,82,2.06,Low,Main Road
+2024-04-08,morning,Pitampura,1192.0,28,41.1,Severe,Main Road
+2024-04-08,afternoon,Dwarka,623.0,37,16.39,Moderate,Highway
+2024-04-08,evening,Rohini,1207.0,25,46.42,Severe,Main Road
+2024-04-08,night,Connaught Place,324.0,73,4.38,Low,Main Road
+2024-04-09,morning,Karol Bagh,1242.0,23,51.75,Severe,Arterial
+2024-04-09,afternoon,Connaught Place,797.0,42,18.53,Moderate,Highway
+2024-04-09,evening,Dwarka,1109.0,26,41.07,Severe,Highway
+2024-04-09,night,Saket,,57,2.64,Low,Main Road
+2024-04-10,morning,Rajouri Garden,1314.0,31,41.06,Severe,Highway
+2024-04-10,afternoon,Karol Bagh,816.0,48,16.65,Moderate,Highway
+2024-04-10,evening,Patparganj,1573.0,12,121.0,Severe,Main Road
+2024-04-10,night,Rohini,158.0,59,2.63,Low,Main Road
+2024-04-11,morning,Connaught Place,1043.0,33,30.68,Heavy,Main Road
+2024-04-11,afternoon,Paschim Vihar,780.0,44,17.33,Moderate,Main Road
+2024-04-11,evening,Dwarka,1284.0,19,64.2,Severe,Main Road
+2024-04-11,night,Hauz Khas,214.0,68,3.1,Low,Main Road
+2024-04-12,morning,Hauz Khas,1008.0,22,43.83,Severe,Arterial
+2024-04-12,afternoon,Saket,693.0,36,18.73,Moderate,Highway
+2024-04-12,evening,Vikas Puri,1261.0,20,60.05,Severe,Main Road
+2024-04-12,night,Rajouri Garden,431.0,61,6.95,Low,Highway
+2024-04-13,morning,Mayur Vihar,900.0,13,64.29,Severe,Main Road
+2024-04-13,afternoon,Model Town,557.0,22,24.22,Moderate,Highway
+2024-04-13,evening,Shahdara,782.0,12,60.15,Severe,main road
+2024-04-13,night,Rohini,127.0,36,3.43,Low,Main Road
+2024-04-14,morning,Rohini,644.0,14,42.93,Severe,Main Road
+2024-04-14,afternoon,Patparganj,544.0,27,19.43,Moderate,main road
+2024-04-14,evening,Chandni Chowk,755.0,16,44.41,Severe,Arterial
+2024-04-14,night,Connaught Place,271.0,44,6.02,Low,Main Road
+2024-04-15,morning,Mayur Vihar,941.0,31,29.41,Heavy,Main Road
+2024-04-15,afternoon,Shahdara,753.0,40,18.37,Moderate,Arterial
+2024-04-15,evening,Rohini,1097.0,24,43.88,Severe,Main Road
+2024-04-15,night,Rohini,427.0,64,6.57,Low,Arterial
+2024-04-16,morning,Janakpuri,1325.0,33,38.97,Heavy,Highway
+2024-04-16,afternoon,Karol Bagh,844.0,41,20.1,Moderate,Arterial
+2024-04-16,evening,Chandni Chowk,1417.0,20,67.48,Severe,Main Road
+2024-04-16,night,Mayur Vihar,312.0,55,5.57,Low,Main Road
+2024-04-17,morning,Paschim Vihar,1479.0,21,67.23,Severe,Arterial
+2024-04-17,afternoon,Mayur Vihar,675.0,38,17.31,Moderate,Main Road
+2024-04-17,evening,Greater Kailash,1735.0,15,108.44,Severe,Highway
+2024-04-17,night,Saket,328.0,73,4.43,Low,Main Road
+2024-04-18,morning,Patparganj,1202.0,22,52.26,Severe,Arterial
+2024-04-18,afternoon,Model Town,802.0,37,21.11,Moderate,Main Road
+2024-04-18,evening,Shahdara,,19,62.45,Severe,Arterial
+2024-04-18,night,Vikas Puri,350.0,57,6.03,Low,Main Road
+2024-04-19,morning,Janakpuri,1332.0,29,44.4,Severe,Artrial
+2024-04-19,afternoon,Karol Bagh,616.0,48,12.57,Moderate,Main Road
+2024-04-19,evening,Saket,1309.0,12,100.69,Severe,Arterial
+2024-04-19,night,Patparganj,395.0,55,7.05,Low,Main Road
+2024-04-20,morning,Vasant Kunj,858.0,33,25.24,Heavy,Main Road
+2024-04-20,afternoon,Pitampura,648.0,50,12.71,Moderate,Highway
+2024-04-20,evening,Dwarka,1224.0,21,55.64,Severe,Main Road
+2024-04-20,night,Model Town,314.0,88,3.53,Low,Arterial
+2024-04-21,morning,Paschim Vihar,1117.0,25,42.96,Severe,Highway
+2024-04-21,afternoon,Chandni Chowk,648.0,49,12.96,Moderate,Arterial
+2024-04-21,evening,Dwarka,904.0,31,28.25,Heavy,Arterial
+2024-04-21,night,Dwarka,240.0,79,3.0,Low,Arterial
+2024-04-22,morning,Karol Bagh,1058.0,29,35.27,Heavy,Main Road
+2024-04-22,afternoon,Connaught Place,770.0,47,16.04,Moderate,Arterial
+2024-04-22,evening,Vasant Kunj,1171.0,21,53.23,Severe,Highway
+2024-04-22,night,Shahdara,235.0,56,4.12,Low,Main Road
+2024-04-23,morning,Vikas Puri,895.0,17,49.72,Severe,Main Road
+2024-04-23,afternoon,Shahdara,720.0,23,30.0,Heavy,Highway
+2024-04-23,evening,Hauz Khas,1088.0,11,90.67,Severe,Artrial
+2024-04-23,night,Dwarka,220.0,35,6.11,Low,Arterial
+2024-04-24,morning,Model Town,1092.0,26,40.44,Severe,Main Road
+2024-04-24,afternoon,Vikas Puri,606.0,43,13.77,Moderate,Highway
+2024-04-24,evening,Pitampura,1248.0,14,83.2,Severe,main road
+2024-04-24,night,Connaught Place,407.0,62,6.46,Low,Highway
+2024-04-25,morning,Mayur Vihar,938.0,26,34.74,Heavy,Arterial
+2024-04-25,afternoon,Vikas Puri,810.0,42,18.84,Moderate,Main Road
+2024-04-25,evening,Paschim Vihar,1055.0,25,40.58,Severe,Highway
+2024-04-25,night,Shahdara,401.0,58,6.8,Low,Highway
+2024-04-26,morning,Vasant Kunj,1031.0,17,57.28,Severe,Highway
+2024-04-26,afternoon,Vikas Puri,616.0,25,23.69,Moderate,Main Road
+2024-04-26,evening,Vikas Puri,1245.0,12,95.77,Severe,Main Road
+2024-04-26,night,Rajouri Garden,289.0,39,7.22,Low,Main Road
+2024-04-27,morning,Hauz Khas,771.0,36,20.84,Moderate,Main Road
+2024-04-27,afternoon,Paschim Vihar,492.0,42,11.44,Moderate,Highway
+2024-04-27,evening,Patparganj,,28,28.0,Heavy,Main Road
+2024-04-27,night,Vikas Puri,352.0,80,4.35,Low,Highway
+2024-04-28,morning,Dwarka,1084.0,25,41.69,Severe,Highway
+2024-04-28,afternoon,Mayur Vihar,514.0,43,11.68,Moderate,Arterial
+2024-04-28,evening,Vasant Kunj,841.0,31,26.28,Heavy,Main Road
+2024-04-28,night,Patparganj,160.0,78,2.03,Low,Main Road
+2024-04-29,morning,Mayur Vihar,1060.0,32,32.12,Heavy,Arterial
+2024-04-29,afternoon,Vasant Kunj,569.0,46,12.11,Moderate,Main Road
+2024-04-29,evening,Pitampura,1105.0,27,39.46,Heavy,Main Road
+2024-04-29,night,Greater Kailash,249.0,66,3.72,Low,Arterial
+2024-04-30,morning,Rajouri Garden,1173.0,31,36.66,Heavy,main road
+2024-04-30,afternoon,Patparganj,757.0,44,16.82,Moderate,Main Road
+2024-04-30,evening,Okhla,1054.0,13,75.29,Severe,Main Road
+2024-04-30,night,Hauz Khas,339.0,74,4.52,Low,Highway
+2024-05-01,morning,Connaught Place,1253.0,20,59.67,Severe,Main Road
+2024-05-01,afternoon,Shahdara,749.0,42,17.42,Moderate,Main Road
+2024-05-01,evening,Mayur Vihar,1332.0,19,66.6,Severe,Highway
+2024-05-01,night,Rajouri Garden,260.0,56,4.56,Low,Main Road
+2024-05-02,morning,Dwarka,1303.0,22,56.65,Severe,Main Road
+2024-05-02,afternoon,Hauz Khas,565.0,39,14.12,Moderate,Highway
+2024-05-02,evening,Pitampura,1166.0,13,83.29,Severe,Arterial
+2024-05-02,night,Paschim Vihar,197.0,60,3.23,Low,Arterial
+2024-05-03,morning,Karol Bagh,1127.0,33,33.15,Heavy,Main Road
+2024-05-03,afternoon,Pitampura,690.0,36,18.65,Moderate,Arterial
+2024-05-03,evening,Greater Kailash,1136.0,21,51.64,Severe,Highway
+2024-05-03,night,Connaught Place,169.0,60,2.77,Low,Highway
+2024-05-04,morning,Shahdara,1032.0,30,33.29,Heavy,Highway
+2024-05-04,afternoon,Chandni Chowk,659.0,54,11.98,Moderate,Main Road
+2024-05-04,evening,Chandni Chowk,945.0,31,29.53,Heavy,Arterial
+2024-05-04,night,Model Town,160.0,72,2.19,Low,Arterial
+2024-05-05,morning,Okhla,827.0,36,22.35,Moderate,Arterial
+2024-05-05,afternoon,Mayur Vihar,598.0,-50,10.87,Moderate,Main Road
+2024-05-05,evening,Vasant Kunj,980.0,25,37.69,Heavy,Main Road
+2024-05-05,night,Karol Bagh,348.0,74,4.64,Low,Main Road
+2024-05-06,morning,Mayur Vihar,1006.0,34,28.74,Heavy,Highway
+2024-05-06,afternoon,Vikas Puri,703.0,35,19.53,Moderate,Highway
+2024-05-06,evening,Lajpat Nagar,1400.0,14,93.33,Severe,Main Road
+2024-05-06,night,Pitampura,345.0,61,5.56,Low,Main Road
+2024-05-07,morning,Greater Kailash,1504.0,26,55.7,Severe,Highway
+2024-05-07,afternoon,Paschim Vihar,840.0,42,19.53,Moderate,Highway
+2024-05-07,evening,Janakpuri,1565.0,26,57.96,Severe,Main Road
+2024-05-07,night,Karol Bagh,422.0,999,5.94,Low,Arterial
+2024-05-08,morning,,1277.0,27,45.61,Severe,Main Road
+2024-05-08,afternoon,Model Town,608.0,40,14.83,Moderate,Main Road
+2024-05-08,evening,Saket,1558.0,14,103.87,Severe,Main Road
+2024-05-08,night,Connaught Place,228.0,61,3.68,Low,Arterial
+2024-05-09,morning,Connaught Place,1270.0,28,43.79,Severe,Main Road
+2024-05-09,afternoon,Lajpat Nagar,710.0,47,14.79,Moderate,Highway
+2024-05-09,evening,Patparganj,1061.0,15,66.31,Severe,Main Road
+2024-05-09,night,Janakpuri,361.0,56,6.33,Low,Highway
+2024-05-10,morning,Hauz Khas,1134.0,30,36.58,Heavy,Main Road
+2024-05-10,afternoon,Paschim Vihar,710.0,42,16.51,Moderate,Highway
+2024-05-10,evening,Rohini,1529.0,27,54.61,Severe,Highway
+2024-05-10,night,Rajouri Garden,435.0,57,7.5,Low,Arterial
+2024-05-11,morning,Vikas Puri,898.0,21,40.82,Severe,Main Road
+2024-05-11,afternoon,Pitampura,,28,12.97,Moderate,Main Road
+2024-05-11,evening,Paschim Vihar,729.0,9,72.9,Severe,Highway
+2024-05-11,night,Dwarka,172.0,43,3.91,Low,Main Road
+2024-05-12,morning,Dwarka,990.0,24,39.6,Heavy,Arterial
+2024-05-12,afternoon,Lajpat Nagar,554.0,52,10.45,Moderate,main road
+2024-05-12,evening,Patparganj,925.0,27,33.04,Heavy,Main Road
+2024-05-12,night,Mayur Vihar,309.0,74,4.12,Low,Main Road
+2024-05-13,morning,Pitampura,1055.0,20,50.24,Severe,Main Road
+2024-05-13,afternoon,Karol Bagh,725.0,43,16.48,Moderate,Highway
+2024-05-13,evening,Patparganj,1564.0,19,78.2,Severe,Main Road
+2024-05-13,night,Pitampura,252.0,67,3.71,Low,Arterial
+2024-05-14,morning,Shahdara,1195.0,23,49.79,Severe,Main Road
+2024-05-14,afternoon,Paschim Vihar,628.0,36,16.97,Moderate,Main Road
+2024-05-14,evening,Paschim Vihar,1382.0,22,60.09,Severe,Main Road
+2024-05-14,night,Model Town,441.0,60,7.23,Low,Highway
+2024-05-15,morning,Rajouri Garden,1132.0,23,47.17,Severe,Arterial
+2024-05-15,afternoon,Janakpuri,608.0,48,12.41,Moderate,Main Road
+2024-05-15,evening,Vasant Kunj,1496.0,22,65.04,Severe,Main Road
+2024-05-15,night,Pitampura,429.0,66,6.4,Low,Main Road
+2024-05-16,morning,Rohini,1399.0,31,43.72,Severe,Main Road
+2024-05-16,afternoon,Shahdara,608.0,39,15.2,Moderate,Main Road
+2024-05-16,evening,Paschim Vihar,1397.0,21,63.5,Severe,Arterial
+2024-05-16,night,Vikas Puri,274.0,59,4.57,Low,Highway
+2024-05-17,morning,,932.0,33,27.41,Heavy,Main Road
+2024-05-17,afternoon,Lajpat Nagar,660.0,35,18.33,Moderate,Arterial
+2024-05-17,evening,Lajpat Nagar,1349.0,17,74.94,Severe,Main Road
+2024-05-17,night,Mayur Vihar,173.0,64,2.66,Low,main road
+2024-05-18,morning,Paschim Vihar,1056.0,40,25.76,Heavy,Main Road
+2024-05-18,afternoon,Paschim Vihar,519.0,43,11.8,Moderate,Main Road
+2024-05-18,evening,Okhla,1240.0,24,49.6,Severe,Arterial
+2024-05-18,night,Hauz Khas,269.0,86,3.09,Low,Main Road
+2024-05-19,morning,Chandni Chowk,1035.0,37,27.24,Heavy,Highway
+2024-05-19,afternoon,Connaught Place,645.0,999,14.02,Moderate,Highway
+2024-05-19,evening,Dwarka,1083.0,15,67.69,Severe,Arterial
+2024-05-19,night,Shahdara,265.0,70,3.73,Low,Main Road
+2024-05-20,morning,Patparganj,1076.0,21,48.91,Severe,Arterial
+2024-05-20,afternoon,Rajouri Garden,846.0,37,22.26,Moderate,Main Road
+2024-05-20,evening,Model Town,1290.0,19,64.5,Severe,Main Road
+2024-05-20,night,Okhla,370.0,68,5.36,Low,Highway
+2024-05-21,morning,Vasant Kunj,1047.0,26,38.78,Heavy,Main Road
+2024-05-21,afternoon,Vikas Puri,679.0,42,15.79,Moderate,Main Road
+2024-05-21,evening,Greater Kailash,1445.0,20,68.81,Severe,Arterial
+2024-05-21,night,Okhla,303.0,56,5.32,Low,Main Road
+2024-05-22,morning,Rohini,923.0,34,26.37,Heavy,Arterial
+2024-05-22,afternoon,Shahdara,566.0,36,15.3,Moderate,Main Road
+2024-05-22,evening,Hauz Khas,1427.0,21,64.86,Severe,Main Road
+2024-05-22,night,Chandni Chowk,277.0,60,4.54,Low,Main Road
+2024-05-23,morning,Mayur Vihar,1142.0,29,38.07,Heavy,Arterial
+2024-05-23,afternoon,Karol Bagh,830.0,44,18.44,Moderate,Main Road
+2024-05-23,evening,Hauz Khas,1024.0,26,37.93,Heavy,Arterial
+2024-05-23,night,Janakpuri,303.0,65,4.59,Low,Arterial
+2024-05-24,morning,Lajpat Nagar,966.0,26,35.78,Heavy,Artrial
+2024-05-24,afternoon,Mayur Vihar,776.0,35,21.56,Moderate,Highway
+2024-05-24,evening,Janakpuri,1476.0,26,54.67,Severe,Highway
+2024-05-24,night,Dwarka,209.0,74,2.79,Low,Main Road
+2024-05-25,morning,Janakpuri,875.0,28,30.17,Heavy,Main Road
+2024-05-25,afternoon,Model Town,655.0,50,12.84,Moderate,Main Road
+2024-05-25,evening,Connaught Place,1200.0,32,36.36,Heavy,Main Road
+2024-05-25,night,Vasant Kunj,162.0,84,1.91,Low,Arterial
+2024-05-26,morning,Dwarka,870.0,28,30.0,Heavy,Main Road
+2024-05-26,afternoon,Vikas Puri,544.0,46,11.57,Moderate,Main Road
+2024-05-26,evening,Vasant Kunj,1020.0,14,68.0,Severe,Main Road
+2024-05-26,night,Rohini,300.0,85,3.49,Low,Highway
+2024-05-27,morning,Rajouri Garden,1077.0,26,39.89,Heavy,Arterial
+2024-05-27,afternoon,Paschim Vihar,709.0,37,18.66,Moderate,Main Road
+2024-05-27,evening,Hauz Khas,1503.0,21,68.32,Severe,Main Road
+2024-05-27,night,Paschim Vihar,259.0,74,3.45,Low,Highway
+2024-05-28,morning,Greater Kailash,1227.0,34,35.06,Heavy,Arterial
+2024-05-28,afternoon,Shahdara,570.0,39,14.25,Moderate,Main Road
+2024-05-28,evening,Lajpat Nagar,1318.0,21,59.91,Severe,Arterial
+2024-05-28,night,Model Town,378.0,66,5.64,Low,Main Road
+2024-05-29,morning,Patparganj,1070.0,999,36.9,Heavy,Main Road
+2024-05-29,afternoon,Connaught Place,651.0,47,13.56,Moderate,Main Road
+2024-05-29,evening,Okhla,1484.0,24,59.36,Severe,Arterial
+2024-05-29,night,Saket,400.0,66,5.97,Low,Highway
+2024-05-30,morning,Karol Bagh,1058.0,34,30.23,Heavy,Arterial
+2024-05-30,afternoon,Model Town,843.0,48,17.2,Moderate,Main Road
+2024-05-30,evening,Paschim Vihar,1132.0,-50,66.59,Severe,Main Road
+2024-05-30,night,Connaught Place,188.0,74,2.51,Low,Main Road
+2024-05-31,morning,Rohini,1382.0,26,51.19,Severe,Arterial
+2024-05-31,afternoon,Rohini,647.0,43,14.7,Moderate,Arterial
+2024-05-31,evening,Model Town,1482.0,15,92.62,Severe,Highway
+2024-05-31,night,Okhla,163.0,69,2.33,Low,Arterial
+2024-06-01,morning,Vikas Puri,1014.0,26,37.56,Heavy,Main Road
+2024-06-01,afternoon,Chandni Chowk,597.0,45,12.98,Moderate,Main Road
+2024-06-01,evening,Vikas Puri,1172.0,18,61.68,Severe,Arterial
+2024-06-01,night,Paschim Vihar,190.0,70,2.68,Low,Highway
+2024-06-02,morning,Rohini,972.0,37,25.58,Heavy,Highway
+2024-06-02,afternoon,Saket,484.0,56,8.49,Low,Main Road
+2024-06-02,evening,Vasant Kunj,868.0,21,39.45,Heavy,Highway
+2024-06-02,night,Shahdara,346.0,69,4.94,Low,Highway
+2024-06-03,morning,Rohini,979.0,31,30.59,Heavy,Arterial
+2024-06-03,afternoon,Hauz Khas,816.0,45,17.74,Moderate,Main Road
+2024-06-03,evening,Lajpat Nagar,1049.0,20,49.95,Severe,Main Road
+2024-06-03,night,Vikas Puri,418.0,55,7.46,Low,Highway
+2024-06-04,morning,Connaught Place,1234.0,25,47.46,Severe,Main Road
+2024-06-04,afternoon,Connaught Place,738.0,49,14.76,Moderate,Highway
+2024-06-04,evening,Lajpat Nagar,1363.0,26,50.48,Severe,Main Road
+2024-06-04,night,Shahdara,403.0,72,5.52,Low,Highway
+2024-06-05,morning,Connaught Place,1266.0,20,60.29,Severe,Main Road
+2024-06-05,afternoon,Connaught Place,703.0,36,19.0,Moderate,Main Road
+2024-06-05,evening,Karol Bagh,1334.0,18,70.21,Severe,Main Road
+2024-06-05,night,Karol Bagh,362.0,70,5.1,Low,Arterial
+2024-06-06,morning,Patparganj,1107.0,15,69.19,Severe,Highway
+2024-06-06,afternoon,Vikas Puri,519.0,25,19.96,Moderate,Main Road
+2024-06-06,evening,,943.0,8,104.78,Severe,Main Road
+2024-06-06,night,Vasant Kunj,310.0,30,10.0,Low,Main Road
+2024-06-07,morning,Greater Kailash,1063.0,30,34.29,Heavy,Main Road
+2024-06-07,afternoon,Rohini,606.0,40,14.78,Moderate,Arterial
+2024-06-07,evening,Patparganj,1409.0,14,93.93,Severe,Main Road
+2024-06-07,night,Paschim Vihar,409.0,63,6.39,Low,Arterial
+2024-06-08,morning,Paschim Vihar,1096.0,40,26.73,Heavy,Highway
+2024-06-08,afternoon,Dwarka,568.0,56,9.96,Low,Highway
+2024-06-08,evening,Rohini,1259.0,30,40.61,Severe,Main Road
+2024-06-08,night,Vikas Puri,287.0,75,3.78,Low,Main Road
+2024-06-09,morning,Janakpuri,,25,40.35,Severe,Main Road
+2024-06-09,afternoon,Saket,524.0,56,9.19,Low,Main Road
+2024-06-09,evening,Janakpuri,944.0,26,34.96,Heavy,Main Road
+2024-06-09,night,Pitampura,320.0,88,3.6,Low,Main Road
+2024-06-10,morning,Saket,1390.0,26,51.48,Severe,Highway
+2024-06-10,afternoon,Shahdara,785.0,39,19.62,Moderate,Main Road
+2024-06-10,evening,Model Town,1347.0,22,58.57,Severe,Highway
+2024-06-10,night,Mayur Vihar,264.0,55,4.71,Low,Highway
+2024-06-11,morning,Rohini,921.0,999,40.04,Severe,Highway
+2024-06-11,afternoon,Mayur Vihar,682.0,42,15.86,Moderate,Main Road
+2024-06-11,evening,Connaught Place,1006.0,23,41.92,Severe,Main Road
+2024-06-11,night,Vikas Puri,262.0,70,3.69,Low,Main Road
+2024-06-12,morning,Hauz Khas,1200.0,24,48.0,Severe,main road
+2024-06-12,afternoon,Okhla,616.0,38,15.79,Moderate,Main Road
+2024-06-12,evening,Okhla,1379.0,17,76.61,Severe,Highway
+2024-06-12,night,Connaught Place,431.0,70,6.07,Low,Arterial
+2024-06-13,morning,Greater Kailash,911.0,24,36.44,Heavy,Highway
+2024-06-13,afternoon,Saket,746.0,44,16.58,Moderate,Main Road
+2024-06-13,evening,Chandni Chowk,1450.0,17,80.56,Severe,Main Road
+2024-06-13,night,Patparganj,391.0,56,6.86,Low,Main Road
+2024-06-14,morning,Pitampura,1276.0,22,55.48,Severe,Main Road
+2024-06-14,afternoon,Lajpat Nagar,687.0,47,14.31,Moderate,Highway
+2024-06-14,evening,Saket,1363.0,20,64.9,Severe,Highway
+2024-06-14,night,Lajpat Nagar,222.0,59,3.7,Low,Main Road
+2024-06-15,morning,Model Town,1113.0,28,38.38,Heavy,Highway
+2024-06-15,afternoon,Saket,532.0,48,10.86,Moderate,main road
+2024-06-15,evening,Model Town,1185.0,25,45.58,Severe,Main Road
+2024-06-15,night,Okhla,126.0,70,1.77,Low,Highway
+2024-06-16,morning,Patparganj,1060.0,33,31.18,Heavy,Highway
+2024-06-16,afternoon,Saket,479.0,54,8.71,Low,Main Road
+2024-06-16,evening,Rajouri Garden,922.0,25,35.46,Heavy,Arterial
+2024-06-16,night,Lajpat Nagar,147.0,75,1.93,Low,Arterial
+2024-06-17,morning,Rohini,1303.0,28,44.93,Severe,Main Road
+2024-06-17,afternoon,Okhla,766.0,38,19.64,Moderate,Main Road
+2024-06-17,evening,Karol Bagh,1276.0,13,91.14,Severe,Main Road
+2024-06-17,night,Patparganj,436.0,68,6.32,Low,Highway
+2024-06-18,morning,Vikas Puri,1357.0,22,59.0,Severe,Main Road
+2024-06-18,afternoon,Connaught Place,785.0,43,17.84,Moderate,Highway
+2024-06-18,evening,Dwarka,1067.0,21,48.5,Severe,Arterial
+2024-06-18,night,Karol Bagh,150.0,63,2.34,Low,Main Road
+2024-06-19,morning,Vikas Puri,1167.0,21,53.05,Severe,Main Road
+2024-06-19,afternoon,Karol Bagh,798.0,49,15.96,Moderate,Highway
+2024-06-19,evening,Vikas Puri,1278.0,24,51.12,Severe,Highway
+2024-06-19,night,Rajouri Garden,462.0,65,7.0,Low,Main Road
+2024-06-20,morning,Connaught Place,1064.0,25,40.92,Severe,Main Road
+2024-06-20,afternoon,Saket,590.0,36,15.95,Moderate,Arterial
+2024-06-20,evening,Lajpat Nagar,1204.0,16,70.82,Severe,Arterial
+2024-06-20,night,Saket,230.0,66,3.43,Low,Main Road
+2024-06-21,morning,Paschim Vihar,956.0,14,63.73,Severe,Highway
+2024-06-21,afternoon,Chandni Chowk,679.0,26,25.15,Heavy,Main Road
+2024-06-21,evening,Chandni Chowk,1179.0,11,98.25,Severe,Main Road
+2024-06-21,night,Hauz Khas,336.0,30,10.84,Moderate,Highway
+2024-06-22,morning,Chandni Chowk,963.0,39,24.08,Moderate,Arterial
+2024-06-22,afternoon,Patparganj,487.0,49,9.74,Low,Highway
+2024-06-22,evening,Okhla,856.0,28,29.52,Heavy,Highway
+2024-06-22,night,Hauz Khas,317.0,88,3.56,Low,Main Road
+2024-06-23,morning,Chandni Chowk,838.0,15,52.38,Severe,Arterial
+2024-06-23,afternoon,Hauz Khas,535.0,31,16.72,Moderate,Arterial
+2024-06-23,evening,Janakpuri,1068.0,8,118.67,Severe,Arterial
+2024-06-23,night,Dwarka,131.0,42,3.05,Low,Main Road
+2024-06-24,morning,Janakpuri,993.0,999,82.75,Severe,Highway
+2024-06-24,afternoon,Dwarka,495.0,24,19.8,Moderate,Main Road
+2024-06-24,evening,Shahdara,1269.0,9,126.9,Severe,Highway
+2024-06-24,night,Shahdara,369.0,33,10.85,Moderate,Highway
+2024-06-25,morning,Model Town,1023.0,30,33.0,Heavy,Main Road
+2024-06-25,afternoon,Patparganj,834.0,38,21.38,Moderate,Main Road
+2024-06-25,evening,Patparganj,1548.0,25,59.54,Severe,Main Road
+2024-06-25,night,Connaught Place,403.0,60,6.61,Low,Main Road
+2024-06-26,morning,Model Town,788.0,15,49.25,Severe,Main Road
+2024-06-26,afternoon,Karol Bagh,623.0,23,25.96,Heavy,Main Road
+2024-06-26,evening,Lajpat Nagar,1339.0,9,133.9,Severe,Main Road
+2024-06-26,night,Rohini,201.0,40,4.9,Low,Main Road
+2024-06-27,morning,Connaught Place,836.0,15,52.25,Severe,Highway
+2024-06-27,afternoon,Vasant Kunj,485.0,20,23.1,Moderate,Main Road
+2024-06-27,evening,Mayur Vihar,965.0,9,96.5,Severe,Arterial
+2024-06-27,night,Greater Kailash,135.0,36,3.65,Low,Main Road
+2024-06-28,morning,Saket,838.0,17,46.56,Severe,Main Road
+2024-06-28,afternoon,Vikas Puri,507.0,24,20.28,Moderate,Main Road
+2024-06-28,evening,Greater Kailash,1279.0,12,98.38,Severe,Highway
+2024-06-28,night,Paschim Vihar,260.0,37,6.84,Low,Arterial
+2024-06-29,morning,Vasant Kunj,835.0,20,39.76,Heavy,Main Road
+2024-06-29,afternoon,Okhla,563.0,27,20.11,Moderate,Main Road
+2024-06-29,evening,,748.0,14,49.87,Severe,Arterial
+2024-06-29,night,Chandni Chowk,260.0,45,5.65,Low,Main Road
+2024-06-30,morning,Hauz Khas,890.0,33,26.18,Heavy,Main Road
+2024-06-30,afternoon,Vikas Puri,660.0,56,11.58,Moderate,Main Road
+2024-06-30,evening,Dwarka,1232.0,19,61.6,Severe,Arterial
+2024-06-30,night,Rohini,209.0,70,2.94,Low,Main Road
